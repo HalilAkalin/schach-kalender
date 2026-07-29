@@ -1,6 +1,9 @@
 @echo off
 cd /d "%~dp0"
 
+echo Hole Aenderungen von GitHub...
+git pull
+
 echo Fuehre Python-Skript aus...
 python kalender.py
 
@@ -10,4 +13,3 @@ git commit -m "Automatisches Update"
 git push
 
 echo Fertig!
-pause

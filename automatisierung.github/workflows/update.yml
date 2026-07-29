@@ -1,0 +1,34 @@
+name: Kalender aktualisieren
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Code auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Bibliotheken installieren
+        run: pip install requests icalendar
+
+      - name: Skript ausfuehren
+        run: python kalender.py
+
+      - name: Aenderungen hochladen
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Automatisches Update" || echo "Keine Aenderungen"
+          git push
