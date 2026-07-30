@@ -2,15 +2,22 @@ import requests
 from datetime import datetime
 from icalendar import Calendar, Event
 
-# Testmodus: True = ausführliche Debug-Ausgaben, False = nur das Wichtigste
 TESTMODUS = False
 
 with open("spieler.txt", "r", encoding="utf-8") as datei:
     spieler_liste = [zeile.strip() for zeile in datei.readlines()]
 
-if TESTMODUS:
-    print("Eingelesene Spieler:", spieler_liste)
-    print()
+with open("turniere.txt", "r", encoding="utf-8") as datei:
+    externe_turniere = []
+    for zeile in datei.readlines():
+        zeile = zeile.strip()
+        if zeile:
+            teile = zeile.split(";")
+            name = teile[0]
+            datum = teile[1]
+            uhrzeit = teile[2]
+            start_zeit = datetime.strptime(f"{datum} {uhrzeit}", "%Y-%m-%d %H:%M")
+            externe_turniere.append((name, start_zeit))
 
 antwort = requests.get("https://lichess.org/api/broadcast/top")
 daten = antwort.json()
@@ -19,21 +26,6 @@ turniere = daten["active"]
 
 turniere_sortiert = sorted(turniere, key=lambda t: t["tour"].get("tier", 0), reverse=True)
 top_10 = turniere_sortiert[:10]
-
-if TESTMODUS:
-    print("=== Top 10 Turniere ===\n")
-    for turnier in top_10:
-        name = turnier["tour"]["name"]
-        tier = turnier["tour"].get("tier", "-")
-        naechste_runde = turnier["round"]["name"]
-        start_timestamp = turnier["round"]["startsAt"]
-        start_zeit = datetime.fromtimestamp(start_timestamp / 1000)
-        gelistete_spieler = turnier["tour"]["info"].get("players", "keine gelistet")
-
-        print(f"{name} (Tier {tier})")
-        print(f"  Nächste Runde: {naechste_runde} - startet am {start_zeit}")
-        print(f"  Gelistete Spieler: {gelistete_spieler}")
-        print()
 
 kalender = Calendar()
 kalender.add("prodid", "-//Mein Schach-Kalender//")
@@ -58,9 +50,6 @@ for turnier in top_10:
     verwendete_ids.add(tour_id)
     anzahl_top += 1
 
-    if TESTMODUS:
-        print(f"Top-Turnier: {name} - startet am {start_zeit}")
-
 for turnier in turniere:
     tour_id = turnier["tour"]["id"]
 
@@ -83,13 +72,16 @@ for turnier in turniere:
         kalender.add_component(termin)
         anzahl_treffer += 1
 
-        if TESTMODUS:
-            print(f"Treffer: {name}")
-            print(f"  Gefundene Spieler: {', '.join(gefundene_spieler)}")
-            print(f"  Nächste Runde startet am {start_zeit}")
-            print()
+anzahl_extern = 0
+for name, start_zeit in externe_turniere:
+    termin = Event()
+    termin.add("summary", f"[Extern] {name}")
+    termin.add("dtstart", start_zeit)
+
+    kalender.add_component(termin)
+    anzahl_extern += 1
 
 with open("schach_termine.ics", "wb") as datei:
     datei.write(kalender.to_ical())
 
-print(f"Fertig! {anzahl_top} Top-Turnier(e) und {anzahl_treffer} Spieler-Treffer in schach_termine.ics gespeichert.")
+print(f"Fertig! {anzahl_top} Top-Turnier(e), {anzahl_treffer} Spieler-Treffer und {anzahl_extern} externe Turniere in schach_termine.ics gespeichert.")
