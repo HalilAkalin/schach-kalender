@@ -2,7 +2,7 @@ name: Kalender aktualisieren
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '17 4 * * *'
   workflow_dispatch:
 
 jobs:
