@@ -7,19 +7,19 @@ DTSTART:20260802T171000
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 British Chess Championships: Under 16
-DTSTART:20260802T081500
-DESCRIPTION:Nächste Runde: Round 1
+SUMMARY:[Top-Turnier] Sparkassen Chess Trophy 2026 | Open A
+DTSTART:20260802T131500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Sparkassen Chess Trophy 2026 | Open B
-DTSTART:20260802T084500
+SUMMARY:[Top-Turnier] 2026 British Chess Championships: Championship
+DTSTART:20260802T133000
 DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Alba Grand Prix Rapid 2026
-DTSTART:20260802T120000
-DESCRIPTION:Nächste Runde: Round 8
+DTSTART:20260802T131644
+DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Esports World Cup 2026 | Last Chance Qualifier A
@@ -27,31 +27,29 @@ DTSTART:20260804T100000
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Chinese Chess League Division B 中国国际象
- 棋乙级联赛
-DTSTART:20260802T011500
-DESCRIPTION:Nächste Runde: Round 9
+SUMMARY:[Top-Turnier] Scheldemond Schaaktoernooi
+DTSTART:20260802T093500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Granada Chess Open 2026
-DTSTART:20260802T073000
-DESCRIPTION:Nächste Runde: Round 9
+SUMMARY:[Top-Turnier] Open Geraardsbergen 27
+DTSTART:20260802T120000
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 35. Juniorsko Prvenstvo Hrvatske
-DTSTART:20260802T071000
-DESCRIPTION:Nächste Runde: Round 5
+SUMMARY:[Top-Turnier] Youth Chess Festival Mureck 2026
+DTSTART:20260802T131500
+DESCRIPTION:Nächste Runde: Round 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2. BURHANİYE ÖREN ULUSLARARASI AÇIK SATRANÇ TURN
- UVASI
-DTSTART:20260802T071500
-DESCRIPTION:Nächste Runde: Round 9
+SUMMARY:[Top-Turnier] XXI Torneo de Promoción de Ajedrez Almansa | A
+DTSTART:20260802T101500
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Youth Arab Chess Championship 2026 | Open U20
-DTSTART:20260802T071500
-DESCRIPTION:Nächste Runde: Round 6
+SUMMARY:[Top-Turnier] 1º Torneo "Fermo d'Estate"
+DTSTART:20260802T130000
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
