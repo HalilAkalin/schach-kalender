@@ -4,39 +4,8 @@ PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] FIDE World University Team Chess Championship 2026 (
  Finals) | Playoffs
-DTSTART:20260808T084500
-DESCRIPTION:Nächste Runde: Semifinals | Game 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Türkiye Satranç Ligi (Turkish League) | Süpe
- r Lig
-DTSTART:20260808T071500
-DESCRIPTION:Nächste Runde: Round 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] French Chess Championship 2026 | Open | First stage
-DTSTART:20260808T131500
-DESCRIPTION:Nächste Runde: Game 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] European Junior Chess Championship 2026 | Open
-DTSTART:20260808T131500
-DESCRIPTION:Nächste Runde: Round 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 19th Arad Open Grand Prix Classic 2026 | Open A
-DTSTART:20260808T131500
-DESCRIPTION:Nächste Runde: Round 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Sparkassen Chess Trophy 2026 | Open A
-DTSTART:20260808T131500
-DESCRIPTION:Nächste Runde: Round 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 British Chess Championships: Championship
-DTSTART:20260808T133000
-DESCRIPTION:Nächste Runde: Round 8
+DTSTART:20260809T061500
+DESCRIPTION:Nächste Runde: Finals | Game 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] GCT: Sinquefield Cup 2026
@@ -49,10 +18,41 @@ DTSTART:20260810T173000
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Belt and Road International Chess Open (Kuqa\, 
- Xinjiang) | Group A
-DTSTART:20260808T024500
+SUMMARY:[Top-Turnier] 19th Arad Open Grand Prix Classic 2026 | Open A
+DTSTART:20260809T064500
+DESCRIPTION:Nächste Runde: Round 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Sparkassen Chess Trophy 2026 | Open A
+DTSTART:20260809T084500
+DESCRIPTION:Nächste Runde: Round 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 2026 British Chess Championships: Championship
+DTSTART:20260809T090000
+DESCRIPTION:Nächste Runde: Round 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 2026 Türkiye Satranç Ligi (Turkish League) | Süpe
+ r Lig
+DTSTART:20260809T121500
+DESCRIPTION:Nächste Runde: Round 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] French Chess Championship 2026 | Open | Quarterfinal
+ s
+DTSTART:20260809T124500
+DESCRIPTION:Nächste Runde: Game 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] European Junior Chess Championship 2026 | Open
+DTSTART:20260809T131500
 DESCRIPTION:Nächste Runde: Round 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] IRT Sub2400 "Jueves de Invierno"
+DTSTART:20260808T200000
+DESCRIPTION:Nächste Runde: Ronda 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
