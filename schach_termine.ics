@@ -2,42 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] GCT: Sinquefield Cup 2026
-DTSTART:20260810T173000
-DESCRIPTION:Nächste Runde: Round 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 2026 Cairns Cup
-DTSTART:20260810T173000
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20260811T173000
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] FIDE World University Team Chess Championship 2026 (
- Finals) | Playoffs
-DTSTART:20260809T131500
-DESCRIPTION:Nächste Runde: Finals | Tiebreaks
+SUMMARY:[Top-Turnier] GCT: Sinquefield Cup 2026
+DTSTART:20260811T173000
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Türkiye Satranç Ligi (Turkish League) | Süpe
- r Lig
-DTSTART:20260810T071500
+SUMMARY:[Top-Turnier] 2026 Belt and Road International Chess Open (Kuqa\, 
+ Xinjiang) | Group A
+DTSTART:20260811T084500
 DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 24th Int. Chess Tournament Spilimbergo 2026
-DTSTART:20260810T073000
-DESCRIPTION:Nächste Runde: Round 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] French Chess Championship 2026 | Open | Quarterfinal
- s
-DTSTART:20260810T124500
-DESCRIPTION:Nächste Runde: Game 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] European Junior Chess Championship 2026 | Open
-DTSTART:20260810T131500
-DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Esports World Cup 2026 | Play-in
@@ -45,15 +23,36 @@ DTSTART:20260811T100000
 DESCRIPTION:Nächste Runde: Upper | Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Kanizsa Open 2026 | Group A | Top boards
-DTSTART:20260815T131500
+SUMMARY:[Top-Turnier] 2026 Türkiye Satranç Ligi (Turkish League) | Süpe
+ r Lig
+DTSTART:20260811T121500
+DESCRIPTION:Nächste Runde: Round 11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 24th Int. Chess Tournament Spilimbergo 2026
+DTSTART:20260811T133000
+DESCRIPTION:Nächste Runde: Round 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] FIDE ISCF World Schools Team Championship 2026 | Ame
+ rican Continental Stage
+DTSTART:20260811T174000
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Belt and Road International Chess Open (Kuqa\, 
- Xinjiang) | Group A
-DTSTART:20260810T084500
-DESCRIPTION:Nächste Runde: Round 8
+SUMMARY:[Top-Turnier] French Chess Championship 2026 | Open | Semifinals
+DTSTART:20260812T124500
+DESCRIPTION:Nächste Runde: Game 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] European Junior Chess Championship 2026 | Open
+DTSTART:20260812T131500
+DESCRIPTION:Nächste Runde: Round 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Chinese Youth Team Chess Championship 2026 | B16
+DTSTART:20260811T064500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
