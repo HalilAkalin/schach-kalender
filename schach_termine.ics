@@ -2,57 +2,56 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Esports World Cup 2026 | Group Stage | A
-DTSTART:20260813T110000
-DESCRIPTION:Nächste Runde: Lower | Round 1
+SUMMARY:[Top-Turnier] Esports World Cup 2026 | Playoffs
+DTSTART:20260814T110000
+DESCRIPTION:Nächste Runde: Quarterfinals | Match 1 & 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] GCT: Sinquefield Cup 2026
-DTSTART:20260813T173000
-DESCRIPTION:Nächste Runde: Round 4
+DTSTART:20260814T173000
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 2026 Cairns Cup
-DTSTART:20260813T173000
-DESCRIPTION:Nächste Runde: Round 4
+DTSTART:20260814T173000
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 2026 Türkiye Satranç Ligi (Turkish League) | Süpe
  r Lig
-DTSTART:20260813T121500
-DESCRIPTION:Nächste Runde: Round 13
+DTSTART:20260814T121500
+DESCRIPTION:Nächste Runde: Round 14
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] French Chess Championship 2026 | Open | Semifinals
-DTSTART:20260813T124500
-DESCRIPTION:Nächste Runde: Game 2
+SUMMARY:[Top-Turnier] French Chess Championship 2026 | Open | Finals
+DTSTART:20260814T124500
+DESCRIPTION:Nächste Runde: Game 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] European Junior Chess Championship 2026 | Open
-DTSTART:20260813T131500
-DESCRIPTION:Nächste Runde: Round 7
+DTSTART:20260814T131500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 24th Int. Chess Tournament Spilimbergo 2026
-DTSTART:20260813T133000
-DESCRIPTION:Nächste Runde: Round 7
+DTSTART:20260814T133000
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] FIDE ISCF World Schools Team Championship 2026 | Ame
  rican Continental Stage
-DTSTART:20260813T171000
-DESCRIPTION:Nächste Runde: Round 3
+DTSTART:20260814T171000
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Chinese Youth Team Chess Championship 2026 | B16
-DTSTART:20260813T064500
-DESCRIPTION:Nächste Runde: Round 6
+DTSTART:20260814T064500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Campeonato de España por Equipos de Club de Segunda
-  División SUR
-DTSTART:20260813T080000
-DESCRIPTION:Nächste Runde: Round 5
+SUMMARY:[Top-Turnier] Türkiye Kulüpler Satranç Şampiyonası
+DTSTART:20260814T071500
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
