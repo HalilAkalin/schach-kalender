@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] GCT: Sinquefield Cup 2026
-DTSTART:20260819T173000
-DESCRIPTION:Nächste Runde: Round 9
+DTSTART:20260819T213304
+DESCRIPTION:Nächste Runde: Playoff | Armageddon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 2026 Cairns Cup
@@ -13,31 +13,31 @@ DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Battle of Minds 2 – Sharjah Cultural & Chess Club 
- | Rapid
-DTSTART:20260819T100000
+ | Classical
+DTSTART:20260820T100000
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 32nd Abu Dhabi International Chess Festival 2026
-DTSTART:20260819T130000
-DESCRIPTION:Nächste Runde: Round 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Kanizsa Open 2026 | Group A | Top boards
-DTSTART:20260819T131500
-DESCRIPTION:Nächste Runde: Round 5
+DTSTART:20260820T131500
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Rubinstein Chess Festival 2026 - ALREH GM Round-Robi
  n
-DTSTART:20260819T131500
-DESCRIPTION:Nächste Runde: Round 5
+DTSTART:20260820T131500
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Campeonato de España Individual Absoluto y Femenino
   2026 (Spanish Championships)
-DTSTART:20260819T143000
-DESCRIPTION:Nächste Runde: Round 3
+DTSTART:20260820T143000
+DESCRIPTION:Nächste Runde: Round 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 32nd Abu Dhabi International Chess Festival 2026
+DTSTART:20260821T130000
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Maia Chess Open 2026 | Masters
@@ -46,14 +46,13 @@ DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 6th KAZ CUP U10-14 | U14
-DTSTART:20260819T051500
-DESCRIPTION:Nächste Runde: Round 2
+DTSTART:20260820T051500
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Israeli U14 Team Championship 2026\, Nahum Naftali M
- emorial
-DTSTART:20260819T060000
-DESCRIPTION:Nächste Runde: Round 8
+SUMMARY:[Top-Turnier] 2.Kapadokya Uluslararası Açık Satranç Turnuvası
+DTSTART:20260820T071500
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
