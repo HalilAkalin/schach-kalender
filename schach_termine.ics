@@ -7,54 +7,53 @@ DTSTART:20260822T170000
 DESCRIPTION:Nächste Runde: Classical | Game 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Battle of Minds 2 – Sharjah Cultural & Chess Club 
- | Classical
-DTSTART:20260821T100000
-DESCRIPTION:Nächste Runde: Round 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] WR Women's Chess Tour 2026 Africa | Rapid
-DTSTART:20260821T120000
+SUMMARY:[Top-Turnier] WR Women's Chess Tour 2026 Africa | Blitz
+DTSTART:20260822T090000
 DESCRIPTION:Nächste Runde: Quarterfinals | Game 1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Battle of Minds 2 – Sharjah Cultural & Chess Club 
+ | Classical
+DTSTART:20260822T100000
+DESCRIPTION:Nächste Runde: Round 3
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 32nd Abu Dhabi International Chess Festival 2026
-DTSTART:20260821T130000
-DESCRIPTION:Nächste Runde: Round 6
+DTSTART:20260822T130000
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Kanizsa Open 2026 | Group A | Top boards
-DTSTART:20260821T131500
-DESCRIPTION:Nächste Runde: Round 7
+DTSTART:20260822T131500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Rubinstein Chess Festival 2026 - ALREH GM Round-Robi
  n
-DTSTART:20260821T131500
-DESCRIPTION:Nächste Runde: Round 7
+DTSTART:20260822T131500
+DESCRIPTION:Nächste Runde: Round 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Chess Slovak Open Skalica 2026 | Masters
+DTSTART:20260822T140000
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Campeonato de España Individual Absoluto y Femenino
   2026 (Spanish Championships)
-DTSTART:20260821T143000
-DESCRIPTION:Nächste Runde: Round 5
+DTSTART:20260822T143000
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] XXVII Open Internacional de Sants - Ciutat de Barcel
  ona 2026 | Group A
-DTSTART:20260821T143000
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20260822T143000
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Maia Chess Open 2026 | Masters
-DTSTART:20260821T181500
-DESCRIPTION:Nächste Runde: Round 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Asian Junior Chess Championship 2026 | Open Classica
- l
-DTSTART:20260821T041500
-DESCRIPTION:Nächste Runde: Round 3
+DTSTART:20260822T151500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
