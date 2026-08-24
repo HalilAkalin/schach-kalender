@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 2026 Grand Chess Tour Finals | Semifinals
-DTSTART:20260823T170000
-DESCRIPTION:Nächste Runde: Classical | Game 2
+DTSTART:20260824T170000
+DESCRIPTION:Nächste Runde: Rapid | Game 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] WR Women's Chess Tour 2026 Europe | Rapid
@@ -12,48 +12,47 @@ DTSTART:20260825T120000
 DESCRIPTION:Nächste Runde: Quarterfinals - Game 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Kanizsa Open 2026 | Group A | Top boards
-DTSTART:20260823T081500
+SUMMARY:[Top-Turnier] 32nd Abu Dhabi International Chess Festival 2026
+DTSTART:20260824T060000
 DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Battle of Minds 2 – Sharjah Cultural & Chess Club 
- | Classical
-DTSTART:20260823T100000
-DESCRIPTION:Nächste Runde: Round 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 32nd Abu Dhabi International Chess Festival 2026
-DTSTART:20260823T130000
-DESCRIPTION:Nächste Runde: Round 8
+ | Blitz
+DTSTART:20260824T100000
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Chess Slovak Open Skalica 2026 | Masters
-DTSTART:20260823T130000
-DESCRIPTION:Nächste Runde: Round 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Rubinstein Chess Festival 2026 - ALREH GM Round-Robi
- n
-DTSTART:20260823T131500
-DESCRIPTION:Nächste Runde: Round 9
+DTSTART:20260824T130000
+DESCRIPTION:Nächste Runde: Round 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Campeonato de España Individual Absoluto y Femenino
   2026 (Spanish Championships)
-DTSTART:20260823T143000
-DESCRIPTION:Nächste Runde: Round 7
+DTSTART:20260824T143000
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] XXVII Open Internacional de Sants - Ciutat de Barcel
  ona 2026 | Group A
-DTSTART:20260823T143000
-DESCRIPTION:Nächste Runde: Round 3
+DTSTART:20260824T143000
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Maia Chess Open 2026 | Masters
-DTSTART:20260823T151500
-DESCRIPTION:Nächste Runde: Round 3
+DTSTART:20260824T151500
+DESCRIPTION:Nächste Runde: Round 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 6th KAZ CUP U10-14 | U14
+DTSTART:20260824T051500
+DESCRIPTION:Nächste Runde: Round 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] IX Aberto Concello de Carballo Clasico
+DTSTART:20260823T150000
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
