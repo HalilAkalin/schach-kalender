@@ -2,57 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Grand Chess Tour Finals | Semifinals
-DTSTART:20260824T170000
-DESCRIPTION:Nächste Runde: Rapid | Game 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Top-Turnier] WR Women's Chess Tour 2026 Europe | Rapid
 DTSTART:20260825T120000
 DESCRIPTION:Nächste Runde: Quarterfinals - Game 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 32nd Abu Dhabi International Chess Festival 2026
-DTSTART:20260824T060000
-DESCRIPTION:Nächste Runde: Round 9
+SUMMARY:[Top-Turnier] 2026 Grand Chess Tour Finals | Finals
+DTSTART:20260825T170000
+DESCRIPTION:Nächste Runde: Classical | Game 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Battle of Minds 2 – Sharjah Cultural & Chess Club 
- | Blitz
-DTSTART:20260824T100000
-DESCRIPTION:Nächste Runde: Round 1
+SUMMARY:[Top-Turnier] 11th Menchik Memorial 2026
+DTSTART:20260825T090000
+DESCRIPTION:Nächste Runde: Round 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Maia Chess Open 2026 | Masters
+DTSTART:20260825T091500
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Chess Slovak Open Skalica 2026 | Masters
-DTSTART:20260824T130000
-DESCRIPTION:Nächste Runde: Round 3
+DTSTART:20260825T130000
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Campeonato de España Individual Absoluto y Femenino
   2026 (Spanish Championships)
-DTSTART:20260824T143000
-DESCRIPTION:Nächste Runde: Round 8
+DTSTART:20260825T143000
+DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] XXVII Open Internacional de Sants - Ciutat de Barcel
  ona 2026 | Group A
-DTSTART:20260824T143000
-DESCRIPTION:Nächste Runde: Round 4
+DTSTART:20260825T143000
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Maia Chess Open 2026 | Masters
-DTSTART:20260824T151500
-DESCRIPTION:Nächste Runde: Round 4
+SUMMARY:[Top-Turnier] CIG Italian Youth Championships U18 2026 | O18
+DTSTART:20260829T131500
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 6th KAZ CUP U10-14 | U14
-DTSTART:20260824T051500
+SUMMARY:[Top-Turnier] Asian Junior Chess Championship 2026 | Open Classica
+ l
+DTSTART:20260825T044500
 DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] IX Aberto Concello de Carballo Clasico
-DTSTART:20260823T150000
-DESCRIPTION:Nächste Runde: Round 5
+SUMMARY:[Top-Turnier] Open Říčany 2026
+DTSTART:20260824T151000
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
