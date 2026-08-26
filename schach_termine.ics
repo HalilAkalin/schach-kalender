@@ -2,57 +2,56 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] WR Women's Chess Tour 2026 Europe | Rapid
-DTSTART:20260825T120000
+SUMMARY:[Top-Turnier] WR Women's Chess Tour 2026 Europe | Blitz
+DTSTART:20260826T130000
 DESCRIPTION:Nächste Runde: Quarterfinals - Game 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 2026 Grand Chess Tour Finals | Finals
-DTSTART:20260825T170000
-DESCRIPTION:Nächste Runde: Classical | Game 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 11th Menchik Memorial 2026
-DTSTART:20260825T090000
-DESCRIPTION:Nächste Runde: Round 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Maia Chess Open 2026 | Masters
-DTSTART:20260825T091500
-DESCRIPTION:Nächste Runde: Round 5
+DTSTART:20260826T170000
+DESCRIPTION:Nächste Runde: Classical | Game 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Chess Slovak Open Skalica 2026 | Masters
-DTSTART:20260825T130000
-DESCRIPTION:Nächste Runde: Round 4
+DTSTART:20260826T130000
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Campeonato de España Individual Absoluto y Femenino
-  2026 (Spanish Championships)
-DTSTART:20260825T143000
-DESCRIPTION:Nächste Runde: Round 9
+SUMMARY:[Top-Turnier] 11th Menchik Memorial 2026
+DTSTART:20260826T140000
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] XXVII Open Internacional de Sants - Ciutat de Barcel
  ona 2026 | Group A
-DTSTART:20260825T143000
-DESCRIPTION:Nächste Runde: Round 5
+DTSTART:20260826T143000
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] CIG Italian Youth Championships U18 2026 | O18
-DTSTART:20260829T131500
-DESCRIPTION:Nächste Runde: Round 1
+SUMMARY:[Top-Turnier] Maia Chess Open 2026 | Masters
+DTSTART:20260826T151500
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Asian Junior Chess Championship 2026 | Open Classica
- l
-DTSTART:20260825T044500
+SUMMARY:[Top-Turnier] 11th Anogia International "Idaion Antro" 2026
+DTSTART:20260826T071500
 DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Open Říčany 2026
-DTSTART:20260824T151000
+SUMMARY:[Top-Turnier] European Union Youth Chess Championship 2026 | U14
+DTSTART:20260826T071500
+DESCRIPTION:Nächste Runde: Round 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Malatya Altın Kayısı 9. Uluslararası Açık Satr
+ anç Turnuvası | Category A
+DTSTART:20260826T071500
 DESCRIPTION:Nächste Runde: Round 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] NSCC 2026 | Club Championship
+DTSTART:20260826T074500
+DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
