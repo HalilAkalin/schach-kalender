@@ -2,55 +2,57 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] GCT: Saint Louis Rapid & Blitz 2026 | Rapid
-DTSTART:20260802T171000
+SUMMARY:[Top-Turnier] International Chess Tournament by Green Hills Resort
+  Masters 2026 | Blitz
+DTSTART:20260831T070500
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 British Chess Championships: Under 16
-DTSTART:20260802T081500
-DESCRIPTION:Nächste Runde: Round 1
+SUMMARY:[Top-Turnier] Sofia Cup 2026 - Balkan Rapid & Blitz Championships 
+ | Blitz
+DTSTART:20260830T142500
+DESCRIPTION:Nächste Runde: Round 11
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Sparkassen Chess Trophy 2026 | Open B
-DTSTART:20260802T084500
-DESCRIPTION:Nächste Runde: Round 2
+SUMMARY:[Top-Turnier] XXVII Open Internacional de Sants - Ciutat de Barcel
+ ona 2026 | Group A
+DTSTART:20260830T212000
+DESCRIPTION:Nächste Runde: Tiebreak 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Alba Grand Prix Rapid 2026
-DTSTART:20260802T120000
-DESCRIPTION:Nächste Runde: Round 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Esports World Cup 2026 | Last Chance Qualifier A
-DTSTART:20260804T100000
-DESCRIPTION:Nächste Runde: Round 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Chinese Chess League Division B 中国国际象
- 棋乙级联赛
-DTSTART:20260802T011500
-DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Granada Chess Open 2026
-DTSTART:20260802T073000
-DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 35. Juniorsko Prvenstvo Hrvatske
-DTSTART:20260802T071000
+SUMMARY:[Top-Turnier] European Senior Team Championships 2026 | Senior 65+
+DTSTART:20260831T141500
 DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2. BURHANİYE ÖREN ULUSLARARASI AÇIK SATRANÇ TURN
- UVASI
-DTSTART:20260802T071500
+SUMMARY:[Top-Turnier] CECLUB Primera Division Linares 2026
+DTSTART:20260831T163000
+DESCRIPTION:Nächste Runde: Round 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Chess Slovak Open Skalica 2026 | Masters
+DTSTART:20260830T093000
 DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Youth Arab Chess Championship 2026 | Open U20
-DTSTART:20260802T071500
+SUMMARY:[Top-Turnier] Portuguese National Championship 2025-2026
+DTSTART:20260830T213000
+DESCRIPTION:Nächste Runde: Round 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 2026 Iowa Open
+DTSTART:20260830T213500
+DESCRIPTION:Nächste Runde: Round 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Bezirksmeisterschaft Schachbezirk Oldenburg Ostfries
+ land 2026
+DTSTART:20260830T150000
+DESCRIPTION:Nächste Runde: Round 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] “Scacchi tra i Due Mari" | Open B
+DTSTART:20260830T153000
 DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT

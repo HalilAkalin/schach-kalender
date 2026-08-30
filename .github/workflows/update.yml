@@ -33,4 +33,4 @@ jobs:
           git commit -m "Automatisches Update" || echo "Keine Aenderungen"
           git push
       - name: Benachrichtigung senden
-        run: curl -d "Kalender wurde aktualisiert" ntfy.sh/HalilAkalinSchachKalender15
+        run: curl -d "$(cat nachricht.txt)" ntfy.sh/HalilAkalinSchachKalender15
