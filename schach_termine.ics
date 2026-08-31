@@ -4,8 +4,8 @@ PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] International Chess Tournament by Green Hills Resort
   Masters 2026 | Blitz
-DTSTART:20260831T050500
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20260831T110000
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Sofia Cup 2026 - Balkan Rapid & Blitz Championships 
@@ -24,34 +24,35 @@ DTSTART:20260831T143000
 DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] XXVII Open Internacional de Sants - Ciutat de Barcel
- ona 2026 | Group A
-DTSTART:20260830T171000
-DESCRIPTION:Nächste Runde: Tiebreak 8
+SUMMARY:[Top-Turnier] CIG Italian Youth Championships U18 2026 | O18
+DTSTART:20260831T071500
+DESCRIPTION:Nächste Runde: Round 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Chess Slovak Open Skalica 2026 | Masters
-DTSTART:20260830T073000
-DESCRIPTION:Nächste Runde: Round 9
+SUMMARY:[Top-Turnier] 2nd Swindon Chess Congress - Open
+DTSTART:20260831T091500
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Portuguese National Championship 2025-2026
-DTSTART:20260830T193000
-DESCRIPTION:Nächste Runde: Round 1
+SUMMARY:[Top-Turnier] MEGA BIG NORMS WARSAW SUMMER ‘26 IM ROUND-ROBIN - 
+ IM-A
+DTSTART:20260831T081500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Iowa Open
-DTSTART:20260830T193500
+SUMMARY:[Top-Turnier] 18th Leyland FIDE Chess Congress - Open
+DTSTART:20260831T083000
 DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 16th 'Papanastasio' Open Tournament 2026 | A Group
-DTSTART:20260830T141500
-DESCRIPTION:Nächste Runde: Round 7
+SUMMARY:[Top-Turnier] MCC Classic Round Robin
+DTSTART:20260831T091500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Malaysian Amateur Chess Championship 2026
-DTSTART:20260831T010000
+SUMMARY:[Top-Turnier] Jashpur All India Open Fide Rated Chess Tournament -
+  2026
+DTSTART:20260831T093000
 DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
