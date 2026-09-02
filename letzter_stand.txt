@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
 [Top-Turnier] 1st Gazi International Open Chess Tournament | Category A
-[Top-Turnier] 2026 City of Adelaide Championship
 [Top-Turnier] CECLUB Primera Division Linares 2026
-[Top-Turnier] Campeonato de España de Aficionados 2026 | ELO 2300
+[Top-Turnier] CIG Italian Youth Championships U18 2026 | O18
+[Top-Turnier] Chess Club "Radnicki" Kovin | IM VI
+[Top-Turnier] DRUŻYNOWE MISTRZOSTWA POLSKI II LIGA 2026 - Mecze 1 - 11
 [Top-Turnier] European Senior Team Championships 2026 | Senior 65+
-[Top-Turnier] Gudrat Ismayilov Memorial | IM
-[Top-Turnier] Jashpur All India Open Fide Rated Chess Tournament - 2026
-[Top-Turnier] Malaysia National Rapid Chess Championship 2026
-[Top-Turnier] Portuguese National Championship 2025-2026
+[Top-Turnier] Gudrat Ismayilov Memorial | GM
+[Top-Turnier] National Blitz Chess Championship 2026
+[Top-Turnier] Rodos Palace Hotel abve2 International Open - Group A
 [Top-Turnier] Tech Mahindra Global Chess League 2026 | Preliminary Stage
