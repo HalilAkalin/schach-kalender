@@ -4,14 +4,14 @@ PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Tech Mahindra Global Chess League 2026 | Preliminary
   Stage
-DTSTART:20260905T100000
-DESCRIPTION:Nächste Runde: PBG Alaskan Knights - FYERS American Gambits
+DTSTART:20260906T100000
+DESCRIPTION:Nächste Runde: Alpine APL Pipers - Ganges Grandmasters
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Chess Experience Exchange Matches Uzbekistan 2026 | 
  Standard
-DTSTART:20260905T091500
-DESCRIPTION:Nächste Runde: Round 4
+DTSTART:20260906T091500
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Leyendas y Prodigios II (Legends & Prodigies) | Grou
@@ -20,41 +20,43 @@ DTSTART:20260907T150000
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] CIG Italian Youth Championships U18 2026 | O18
-DTSTART:20260905T071500
+SUMMARY:[Top-Turnier] DRUŻYNOWE MISTRZOSTWA POLSKI II LIGA 2026 - Mecze 1
+  - 11
+DTSTART:20260906T071500
 DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Guba Open 2026 | Group A
-DTSTART:20260905T061500
+DTSTART:20260906T061500
+DESCRIPTION:Nächste Runde: Round 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 1st Gazi International Open Chess Tournament | Categ
+ ory A
+DTSTART:20260906T071500
+DESCRIPTION:Nächste Runde: Round 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] PARA SUKMA XXII SELANGOR 2026 | Standard PI | MEN
+DTSTART:20260906T060000
 DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Saint Charbel Chess Cup IV | Masters
-DTSTART:20260905T064500
-DESCRIPTION:Nächste Runde: Round 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 39th Indian National Under-13 Chess Championship 202
- 6 | Open
-DTSTART:20260905T043000
-DESCRIPTION:Nächste Runde: Round 4
+ 6 | Girls
+DTSTART:20260906T043000
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Swiss Youth Individual Championship 2026 | 1st Quali
  fication | U18
-DTSTART:20260905T074500
-DESCRIPTION:Nächste Runde: Round 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Czech Team Chess Championship | Rapid
-DTSTART:20260905T080000
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20260906T071500
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 37th Iraqi Chess Super League 2026
-DTSTART:20260905T070000
-DESCRIPTION:Nächste Runde: Round 6
+DTSTART:20260906T070000
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:46th FIDE Chess Olympiad 2026 - Fabiano Caruana\, Javokhir Sindaro
