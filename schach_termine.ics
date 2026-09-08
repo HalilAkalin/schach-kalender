@@ -4,55 +4,55 @@ PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Tech Mahindra Global Chess League 2026 | Preliminary
   Stage
-DTSTART:20260907T100000
-DESCRIPTION:Nächste Runde: PBG Alaskan Knights - Alpine APL Pipers
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Chess Experience Exchange Matches Uzbekistan 2026 | 
- Standard
-DTSTART:20260907T091500
-DESCRIPTION:Nächste Runde: Round 6
+DTSTART:20260908T100000
+DESCRIPTION:Nächste Runde: Ganges Grandmasters - PBG Alaskan Knights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Leyendas y Prodigios II (Legends & Prodigies) | Grou
  p A
-DTSTART:20260907T150000
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20260908T090000
+DESCRIPTION:Nächste Runde: Round 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Chess Experience Exchange Matches Uzbekistan 2026 | 
+ Standard
+DTSTART:20260908T091500
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Guba Open 2026 | Group A
-DTSTART:20260907T061500
-DESCRIPTION:Nächste Runde: Round 5
+DTSTART:20260908T061500
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Saint Charbel Chess Cup IV | Masters
-DTSTART:20260907T064500
+SUMMARY:[Top-Turnier] 1st Berjaya Global Chess Open 2026 - Masters
+DTSTART:20260908T073000
+DESCRIPTION:Nächste Runde: Round 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] PARA SUKMA XXII SELANGOR 2026 | Standard B1 | WOMEN
+DTSTART:20260908T060000
 DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Bratislava Norm Week - IM A
-DTSTART:20260907T081000
-DESCRIPTION:Nächste Runde: Round 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Mülheimer 5 Tagesnorm 2026 | GM-Norm
-DTSTART:20260907T091500
-DESCRIPTION:Nächste Runde: Round 5
+SUMMARY:[Top-Turnier] Bulgarian Team Chess Championship | Standard
+DTSTART:20260908T060000
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 37th Iraqi Chess Super League 2026
-DTSTART:20260907T070000
-DESCRIPTION:Nächste Runde: Round 10
+DTSTART:20260908T060000
+DESCRIPTION:Nächste Runde: Round 12
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Chess Club "Radnicki" Kovin | IM VI
-DTSTART:20260907T080000
-DESCRIPTION:Nächste Runde: Round 9
+SUMMARY:[Top-Turnier] Saint Charbel Chess Cup IV | Masters
+DTSTART:20260908T064500
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] ACC Monday Nights 2026 | Championships
-DTSTART:20260907T070000
-DESCRIPTION:Nächste Runde: Round 4
+SUMMARY:[Top-Turnier] Mülheimer 5 Tagesnorm 2026 | GM-Norm
+DTSTART:20260908T091500
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:46th FIDE Chess Olympiad 2026 - Fabiano Caruana\, Javokhir Sindaro
