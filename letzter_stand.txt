@@ -1,13 +1,12 @@
-46th FIDE Chess Olympiad 2026 - Fabiano Caruana, Javokhir Sindarov
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
+[Top-Turnier] 1st Berjaya Global Chess Open 2026 - Masters
+[Top-Turnier] 32º Festival Internazionale di Scacchi “Grand Hotel Adriatico”
+[Top-Turnier] 3rd FIDE Chess Olympiad for People with Disabilities 2026
 [Top-Turnier] 41º. Open Ezkerraldea Basque Country - 34º Magistral Internacional de Euskadi
-[Top-Turnier] Bratislava Norm Week - IM A
-[Top-Turnier] Chess Club "Radnicki" Kovin | IM VII
+[Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | I
 [Top-Turnier] Guba Open 2026 | Group A
-[Top-Turnier] Intercolegiados Distritales Colombia 2026 | Preinfantil Femenino
+[Top-Turnier] Intercolegiados Distritales Colombia 2026 | PreJuvenil Masculino
 [Top-Turnier] Leyendas y Prodigios II (Legends & Prodigies) | Group A
-[Top-Turnier] Mülheimer 5 Tagesnorm 2026 | GM-Norm
-[Top-Turnier] PARA SUKMA XXII SELANGOR 2026 | Rapid | PI Men
-[Top-Turnier] Saint Charbel Chess Cup IV | Masters
+[Top-Turnier] TCEC S30: Playoff & Swiss 10 | Playoff | Cat 3+4
 [Top-Turnier] Tech Mahindra Global Chess League 2026 | Preliminary Stage

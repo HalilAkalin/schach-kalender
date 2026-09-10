@@ -4,62 +4,58 @@ PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Tech Mahindra Global Chess League 2026 | Preliminary
   Stage
-DTSTART:20260909T100000
-DESCRIPTION:Nächste Runde: CheQ Mumba Masters - Alpine APL Pipers
+DTSTART:20260910T100000
+DESCRIPTION:Nächste Runde: Alpine APL Pipers - Ganges Grandmasters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 3rd FIDE Chess Olympiad for People with Disabilities
+  2026
+DTSTART:20260911T101500
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Leyendas y Prodigios II (Legends & Prodigies) | Grou
  p A
-DTSTART:20260909T090000
-DESCRIPTION:Nächste Runde: Round 4
+DTSTART:20260910T090000
+DESCRIPTION:Nächste Runde: Round 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | I
+DTSTART:20260916T100000
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Guba Open 2026 | Group A
-DTSTART:20260909T061500
-DESCRIPTION:Nächste Runde: Round 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] PARA SUKMA XXII SELANGOR 2026 | Rapid | PI Men
-DTSTART:20260909T083000
-DESCRIPTION:Nächste Runde: Round 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Saint Charbel Chess Cup IV | Masters
-DTSTART:20260909T064500
+DTSTART:20260910T061500
 DESCRIPTION:Nächste Runde: Round 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 1st Berjaya Global Chess Open 2026 - Masters
+DTSTART:20260910T073000
+DESCRIPTION:Nächste Runde: Round 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 32º Festival Internazionale di Scacchi “Grand Hot
+ el Adriatico”
+DTSTART:20260910T073000
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 41º. Open Ezkerraldea Basque Country - 34º Magistr
  al Internacional de Euskadi
-DTSTART:20260909T080000
-DESCRIPTION:Nächste Runde: Round 2
+DTSTART:20260910T080000
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Bratislava Norm Week - IM A
-DTSTART:20260909T081000
-DESCRIPTION:Nächste Runde: Round 6
+SUMMARY:[Top-Turnier] TCEC S30: Playoff & Swiss 10 | Playoff | Cat 3+4
+DTSTART:20260910T080757
+DESCRIPTION:Nächste Runde: Round 15
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Chess Club "Radnicki" Kovin | IM VII
-DTSTART:20260909T080000
-DESCRIPTION:Nächste Runde: Round 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Intercolegiados Distritales Colombia 2026 | Preinfan
- til Femenino
-DTSTART:20260908T180000
-DESCRIPTION:Nächste Runde: Round 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Mülheimer 5 Tagesnorm 2026 | GM-Norm
-DTSTART:20260909T091500
-DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:46th FIDE Chess Olympiad 2026 - Fabiano Caruana\, Javokhir Sindaro
- v
-DTSTART:20260916T100000
-DESCRIPTION:Nächste Runde: Round 1
+SUMMARY:[Top-Turnier] Intercolegiados Distritales Colombia 2026 | PreJuven
+ il Masculino
+DTSTART:20260910T120000
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
