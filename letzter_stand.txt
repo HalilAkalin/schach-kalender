@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
+[Top-Turnier] 1st Berjaya Global Chess Open 2026 - Masters
 [Top-Turnier] 2026 Clutch Chess: The Legends
+[Top-Turnier] 2026年全国国际象棋成人业余棋王挑战赛
 [Top-Turnier] 3rd FIDE Chess Olympiad for People with Disabilities 2026
 [Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | I
-[Top-Turnier] Bratislava Norm Week - IM A
-[Top-Turnier] Bulgarian Team Chess Championship | Standard
-[Top-Turnier] Chess Club "Radnicki" Kovin | IM VII
-[Top-Turnier] ISSO Chess Tournament 2026 | B19
+[Top-Turnier] Czech Rapid Youth Championship 2026 | Boys | U14
 [Top-Turnier] Leyendas y Prodigios II (Legends & Prodigies) | Group A
-[Top-Turnier] TCEC S30: Playoff & Swiss 10 | Playoff | Cat 3+4
+[Top-Turnier] Nordic School Team Chess Championships 2026 - Group A (U17)
+[Top-Turnier] Polish Team Championship 2026 Division 1 (Drużynowe Mistrzostwa Polski - I Liga)
 [Top-Turnier] Tech Mahindra Global Chess League 2026 | Preliminary Stage
