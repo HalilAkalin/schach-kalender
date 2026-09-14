@@ -2,20 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Tech Mahindra Global Chess League 2026 | Finals
-DTSTART:20260913T100000
-DESCRIPTION:Nächste Runde: 3rd Place Match | Game 1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 3rd FIDE Chess Olympiad for People with Disabilities
   2026
-DTSTART:20260913T101500
-DESCRIPTION:Nächste Runde: Round 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Clutch Chess: The Legends
-DTSTART:20260913T170000
-DESCRIPTION:Nächste Runde: Round 9 | Rapid
+DTSTART:20260914T101500
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | I
@@ -23,37 +13,45 @@ DTSTART:20260916T100000
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Polish Team Championship 2026 Division 1 (Drużynowe
-  Mistrzostwa Polski - I Liga)
-DTSTART:20260913T071500
+SUMMARY:[Top-Turnier] 2026 Clutch Chess: The Legends
+DTSTART:20260913T195937
+DESCRIPTION:Nächste Runde: Round 12 | Blitz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Tech Mahindra Global Chess League 2026 | Finals
+DTSTART:20260913T140000
+DESCRIPTION:Nächste Runde: Finals | Game 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Dutch Meesterklasse 2026-2027
+DTSTART:20260919T110000
+DESCRIPTION:Nächste Runde: Round 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 32º Festival Internazionale di Scacchi “Grand Hot
+ el Adriatico”
+DTSTART:20260914T073000
 DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Czech Rapid Youth Championship 2026 | U20
-DTSTART:20260913T090500
-DESCRIPTION:Nächste Runde: Round 9
+SUMMARY:[Top-Turnier] I. Međugorje Open 2026
+DTSTART:20260914T081500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Jan Timman Schaal 2026 | Jan Timman Schaal
-DTSTART:20260913T090000
-DESCRIPTION:Nächste Runde: Halve Finale - partij 1
+SUMMARY:[Top-Turnier] ACC Monday Nights 2026 | Championships
+DTSTART:20260914T070000
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Nordic School Team Chess Championships 2026 - Group 
- A (U17)
-DTSTART:20260913T070000
+SUMMARY:[Top-Turnier] MCC Classic Round Robin
+DTSTART:20260914T091500
 DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 41º. Open Ezkerraldea Basque Country - 34º Magistr
- al Internacional de Euskadi
-DTSTART:20260913T073000
-DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Bursa Satranç İl Birinciliği Finali
-DTSTART:20260913T071000
-DESCRIPTION:Nächste Runde: Round 6
+SUMMARY:[Top-Turnier] 34. Deutsche Senioren MM 2026 | 65+
+DTSTART:20260914T121500
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
