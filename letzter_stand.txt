@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
+[Top-Turnier] 1º Festival Internazionale di Scacchi "Il Tesoro di San Gennaro" - Torneo A
 [Top-Turnier] 34. Deutsche Senioren MM 2026 | 65+
 [Top-Turnier] 3rd FIDE Chess Olympiad for People with Disabilities 2026
 [Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | I
 [Top-Turnier] Copa Independencia 2026 | Hidalgo
 [Top-Turnier] Dutch Meesterklasse 2026-2027
+[Top-Turnier] Haustmót TR 2026
 [Top-Turnier] I. Međugorje Open 2026
-[Top-Turnier] Marshall Masters 2026 | September
-[Top-Turnier] OMCC Monday's Classic #12
 [Top-Turnier] SixDays Open Budapest September 2026
-[Top-Turnier] Stjernens Høstturnering
+[Top-Turnier] Tyresö SK KM 2026
