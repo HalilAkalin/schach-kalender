@@ -2,15 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | Mat
+ ches 1-12
+DTSTART:20260918T101500
+DESCRIPTION:Nächste Runde: Round 3
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 3rd FIDE Chess Olympiad for People with Disabilities
   2026
 DTSTART:20260917T061500
 DESCRIPTION:Nächste Runde: Round 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | I
-DTSTART:20260917T101500
-DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Dutch Meesterklasse 2026-2027
@@ -18,24 +19,24 @@ DTSTART:20260919T110000
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 34. Deutsche Senioren MM 2026 | 65+
-DTSTART:20260917T074500
-DESCRIPTION:Nächste Runde: Round 4
+SUMMARY:[Top-Turnier] SixDays Open Budapest September 2026
+DTSTART:20260918T081500
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] I. Međugorje Open 2026
-DTSTART:20260917T081500
-DESCRIPTION:Nächste Runde: Round 6
+SUMMARY:[Top-Turnier] 34. Deutsche Senioren MM 2026 | 65+
+DTSTART:20260918T074500
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] TCEC S30: Playoff & Swiss 10 | Playoff | Cat 2
-DTSTART:20260917T092046
-DESCRIPTION:Nächste Runde: Round 18
+DTSTART:20260918T084944
+DESCRIPTION:Nächste Runde: Round 23
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] SixDays Open Budapest September 2026
-DTSTART:20260917T141500
-DESCRIPTION:Nächste Runde: Round 6
+SUMMARY:[Top-Turnier] I. Međugorje Open 2026
+DTSTART:20260918T151500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 1º Festival Internazionale di Scacchi "Il Tesoro di
