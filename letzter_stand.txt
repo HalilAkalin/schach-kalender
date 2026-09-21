@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
-[Top-Turnier] 1º Festival Internazionale di Scacchi "Il Tesoro di San Gennaro" - Torneo A
-[Top-Turnier] 2026. gada Latvijas jaunatnes šaha attīstības līga II sporta klasēm
-[Top-Turnier] 34. Deutsche Senioren MM 2026 | 65+
-[Top-Turnier] 3rd Annual Blue Ridge Open
-[Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | Boards with separate scheduling
-[Top-Turnier] 8. Memorial Oldricha Kycla 2026
-[Top-Turnier] DM i Lynskak 2026 - Basis
-[Top-Turnier] Haustmót TR 2026
-[Top-Turnier] POLSCA Batlic Chess Open 2026
+[Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | Matches 63-87
+[Top-Turnier] Eliminacje Międzywojewódzkie MA-WM C9
+[Top-Turnier] JUEGOS DEPORTIVOS NACIONALES IPD 2026 - Men
+[Top-Turnier] MCC Classic Round Robin
+[Top-Turnier] Næstved Høst EMT 2026
+[Top-Turnier] OMCC Monday's Classic #12
+[Top-Turnier] SixDays Budapest Sept 2026 | GM-A
+[Top-Turnier] Stjernens Høstturnering
 [Top-Turnier] TCEC S30: Playoff & Swiss 10 | Playoff | Cat 2
+[Top-Turnier] Zagreb Open 2026 – VIII Krunoslav Hulak Memorial
