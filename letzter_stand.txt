@@ -1,11 +1,11 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
-[Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | Matches 63-87
+[Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | Matches 1-12
 [Top-Turnier] Eliminacje Międzywojewódzkie MA-WM C9
-[Top-Turnier] JUEGOS DEPORTIVOS NACIONALES IPD 2026 - Men
-[Top-Turnier] MCC Classic Round Robin
+[Top-Turnier] Hull 4NCL Congress 2026 - Open
 [Top-Turnier] Næstved Høst EMT 2026
 [Top-Turnier] OMCC Monday's Classic #12
+[Top-Turnier] Perth International Open 2026
 [Top-Turnier] SixDays Budapest Sept 2026 | GM-A
 [Top-Turnier] Stjernens Høstturnering
 [Top-Turnier] TCEC S30: Playoff & Swiss 10 | Playoff | Cat 2
