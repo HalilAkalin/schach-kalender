@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
-[Top-Turnier] 2026 NSW State Championships
 [Top-Turnier] 2026年全国国际象棋棋协大师赛 (吐鲁番站) 公开组
 [Top-Turnier] 2º Tuscany Move
 [Top-Turnier] 35.ekipno juniorsko prvenstvo Republike Hrvatske u šahu
 [Top-Turnier] 46th FIDE Chess Olympiad Samarkand 2026 | Open | Matches 1-12
-[Top-Turnier] Campeonato de España Individual de Ajedrez Inclusivo 2026
-[Top-Turnier] Eliminacje Międzywojewódzkie MA-WM C9
+[Top-Turnier] Deutsche Schnellschach Amateurmeisterschaft 2026 | A
+[Top-Turnier] Eliminacje Międzywojewódzkie MA-WM C11
 [Top-Turnier] Hull 4NCL Congress 2026 - Open
 [Top-Turnier] Ungdoms DM 2026 - U14-U19
+[Top-Turnier] XII Open Internacional de Ajedrez Ciudad de Albacete | U2400
 [Top-Turnier] Zagreb Open 2026 – VIII Krunoslav Hulak Memorial
