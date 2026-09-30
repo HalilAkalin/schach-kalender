@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
 [Top-Turnier] 2026 Army and Navy Club Pall Mall Masters - Super Rapid
-[Top-Turnier] 2026 NZ South Island Championship
 [Top-Turnier] 6th Gambit Closed Tournament
-[Top-Turnier] ASCUN Nacional | Clásico | Femenino
-[Top-Turnier] Bihar State Women FIDE Rating Chess Championship 2026
+[Top-Turnier] FESTIVAL NACIONAL E INTERNACIONAL DE AJEDREZ “QUERETARO 2026” | ITT Grupo A
 [Top-Turnier] FIDE ISCF World Schools Team Championship 2026 | European Continental Stage
+[Top-Turnier] Final Nacional Juegos Deportivos Escolares IND 2026 | Varones
 [Top-Turnier] Hungarian Superleague 2026/27
-[Top-Turnier] NSCC 2026 | Spring Tournament
+[Top-Turnier] Ladder Legends by Lichess | GM Salgado López vs GM Peng
 [Top-Turnier] Strucxel 50th National 'B' Championship 2026: Region-1, Dhaka City | Final Phase
 [Top-Turnier] TCEC S30: Playoff & Swiss 10 | Playoff | Cat 1
+[Top-Turnier] Tyresö SK KM 2026
