@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
-[Top-Turnier] 1. Članska liga vzhod 2026
 [Top-Turnier] 2026 Army and Navy Club Pall Mall Masters - Super Rapid
-[Top-Turnier] 2nd Rungta Cement International Open FIDE Rating Chess Tournament 2026
-[Top-Turnier] Bihar State Junior FIDE Rating Chess Championship 2026 |  Open
-[Top-Turnier] FIDE ISCF World Schools Team Championship 2026 | European Continental Stage
-[Top-Turnier] Final Nacional Juegos Deportivos Escolares IND 2026 | Varones
+[Top-Turnier] Campeonato de Sevilla 2026 - 57º Campeonato Internacional “Alcalá de Guadaíra"
+[Top-Turnier] German 2nd Women's Bundesliga South 2026/27 (2. Frauenbundesliga Süd)
+[Top-Turnier] German 2nd Women's Bundesliga West 2026/27 (2. Frauenbundesliga West)
 [Top-Turnier] German Women's Bundesliga 2026/27 (1. Frauenbundesliga)
 [Top-Turnier] Hungarian Superleague 2026/27
 [Top-Turnier] IV Torneo Internazionale Città di Piacenza
+[Top-Turnier] Memorial  Giancarlo GERVASI
 [Top-Turnier] New Zagreb Classic Futures 2026
+[Top-Turnier] Slovenian Team Championship 2026 (Državna članska liga)

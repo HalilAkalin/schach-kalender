@@ -2,60 +2,60 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] FIDE ISCF World Schools Team Championship 2026 | Eur
- opean Continental Stage
-DTSTART:20261002T094000
-DESCRIPTION:Nächste Runde: Round 8
+SUMMARY:[Top-Turnier] German Women's Bundesliga 2026/27 (1. Frauenbundesli
+ ga)
+DTSTART:20261004T071500
+DESCRIPTION:Nächste Runde: Round 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Hungarian Superleague 2026/27
+DTSTART:20261004T081500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 2026 Army and Navy Club Pall Mall Masters - Super Ra
  pid
-DTSTART:20261003T090000
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20261004T100000
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] German Women's Bundesliga 2026/27 (1. Frauenbundesli
- ga)
-DTSTART:20261003T121500
-DESCRIPTION:Nächste Runde: Round 1
+SUMMARY:[Top-Turnier] Slovenian Team Championship 2026 (Državna članska 
+ liga)
+DTSTART:20261004T080000
+DESCRIPTION:Nächste Runde: Round 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Hungarian Superleague 2026/27
-DTSTART:20261003T131500
-DESCRIPTION:Nächste Runde: Round 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2nd Rungta Cement International Open FIDE Rating Che
- ss Tournament 2026
-DTSTART:20261002T100000
-DESCRIPTION:Nächste Runde: Round 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Bihar State Junior FIDE Rating Chess Championship 20
- 26 |  Open
-DTSTART:20261002T094500
+SUMMARY:[Top-Turnier] New Zagreb Classic Futures 2026
+DTSTART:20261004T081500
 DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] IV Torneo Internazionale Città di Piacenza
-DTSTART:20261002T081500
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20261004T074500
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Final Nacional Juegos Deportivos Escolares IND 2026 
- | Varones
-DTSTART:20261002T120000
-DESCRIPTION:Nächste Runde: RONDA 7
+SUMMARY:[Top-Turnier] German 2nd Women's Bundesliga West 2026/27 (2. Fraue
+ nbundesliga West)
+DTSTART:20261004T071500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] New Zagreb Classic Futures 2026
-DTSTART:20261002T141500
-DESCRIPTION:Nächste Runde: Round 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 1. Članska liga vzhod 2026
-DTSTART:20261002T150000
+SUMMARY:[Top-Turnier] Memorial  Giancarlo GERVASI
+DTSTART:20261004T073000
 DESCRIPTION:Nächste Runde: Round 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Campeonato de Sevilla 2026 - 57º Campeonato Interna
+ cional “Alcalá de Guadaíra"
+DTSTART:20261004T080000
+DESCRIPTION:Nächste Runde: Round 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] German 2nd Women's Bundesliga South 2026/27 (2. Frau
+ enbundesliga Süd)
+DTSTART:20261004T071500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
