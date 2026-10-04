@@ -2,58 +2,60 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] International Chess Tournament by Green Hills Resort
-  Masters 2026 | Blitz
-DTSTART:20260831T070500
-DESCRIPTION:Nächste Runde: Round 1
+SUMMARY:[Top-Turnier] German Women's Bundesliga 2026/27 (1. Frauenbundesli
+ ga)
+DTSTART:20261004T071500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Sofia Cup 2026 - Balkan Rapid & Blitz Championships 
- | Blitz
-DTSTART:20260830T142500
-DESCRIPTION:Nächste Runde: Round 11
+SUMMARY:[Top-Turnier] Hungarian Superleague 2026/27
+DTSTART:20261004T081500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] XXVII Open Internacional de Sants - Ciutat de Barcel
- ona 2026 | Group A
-DTSTART:20260830T212000
-DESCRIPTION:Nächste Runde: Tiebreak 9
+SUMMARY:[Top-Turnier] 2026 Army and Navy Club Pall Mall Masters - Super Ra
+ pid
+DTSTART:20261004T100000
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] European Senior Team Championships 2026 | Senior 65+
-DTSTART:20260831T141500
+SUMMARY:[Top-Turnier] Slovenian Team Championship 2026 (Državna članska 
+ liga)
+DTSTART:20261004T080000
+DESCRIPTION:Nächste Runde: Round 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] New Zagreb Classic Futures 2026
+DTSTART:20261004T081500
+DESCRIPTION:Nächste Runde: Round 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] IV Torneo Internazionale Città di Piacenza
+DTSTART:20261004T074500
 DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] CECLUB Primera Division Linares 2026
-DTSTART:20260831T163000
+SUMMARY:[Top-Turnier] German 2nd Women's Bundesliga West 2026/27 (2. Fraue
+ nbundesliga West)
+DTSTART:20261004T071500
+DESCRIPTION:Nächste Runde: Round 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Memorial  Giancarlo GERVASI
+DTSTART:20261004T073000
+DESCRIPTION:Nächste Runde: Round 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Campeonato de Sevilla 2026 - 57º Campeonato Interna
+ cional “Alcalá de Guadaíra"
+DTSTART:20261004T080000
 DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Chess Slovak Open Skalica 2026 | Masters
-DTSTART:20260830T093000
-DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Portuguese National Championship 2025-2026
-DTSTART:20260830T213000
-DESCRIPTION:Nächste Runde: Round 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Iowa Open
-DTSTART:20260830T213500
-DESCRIPTION:Nächste Runde: Round 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Bezirksmeisterschaft Schachbezirk Oldenburg Ostfries
- land 2026
-DTSTART:20260830T150000
-DESCRIPTION:Nächste Runde: Round 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] “Scacchi tra i Due Mari" | Open B
-DTSTART:20260830T153000
-DESCRIPTION:Nächste Runde: Round 6
+SUMMARY:[Top-Turnier] German 2nd Women's Bundesliga South 2026/27 (2. Frau
+ enbundesliga Süd)
+DTSTART:20261004T071500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026

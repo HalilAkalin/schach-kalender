@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
-[Top-Turnier] 2026 Iowa Open
-[Top-Turnier] Bezirksmeisterschaft Schachbezirk Oldenburg Ostfriesland 2026
-[Top-Turnier] CECLUB Primera Division Linares 2026
-[Top-Turnier] Chess Slovak Open Skalica 2026 | Masters
-[Top-Turnier] European Senior Team Championships 2026 | Senior 65+
-[Top-Turnier] International Chess Tournament by Green Hills Resort Masters 2026 | Blitz
-[Top-Turnier] Portuguese National Championship 2025-2026
-[Top-Turnier] Sofia Cup 2026 - Balkan Rapid & Blitz Championships | Blitz
-[Top-Turnier] XXVII Open Internacional de Sants - Ciutat de Barcelona 2026 | Group A
-[Top-Turnier] “Scacchi tra i Due Mari" | Open B
+[Top-Turnier] 2026 Army and Navy Club Pall Mall Masters - Super Rapid
+[Top-Turnier] Campeonato de Sevilla 2026 - 57º Campeonato Internacional “Alcalá de Guadaíra"
+[Top-Turnier] German 2nd Women's Bundesliga South 2026/27 (2. Frauenbundesliga Süd)
+[Top-Turnier] German 2nd Women's Bundesliga West 2026/27 (2. Frauenbundesliga West)
+[Top-Turnier] German Women's Bundesliga 2026/27 (1. Frauenbundesliga)
+[Top-Turnier] Hungarian Superleague 2026/27
+[Top-Turnier] IV Torneo Internazionale Città di Piacenza
+[Top-Turnier] Memorial  Giancarlo GERVASI
+[Top-Turnier] New Zagreb Classic Futures 2026
+[Top-Turnier] Slovenian Team Championship 2026 (Državna članska liga)
