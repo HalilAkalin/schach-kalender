@@ -19,7 +19,6 @@ with open("turniere.txt", "r", encoding="utf-8") as datei:
             start_zeit = datetime.strptime(f"{datum} {uhrzeit}", "%Y-%m-%d %H:%M")
             externe_turniere.append((name, start_zeit))
 
-# Letzten bekannten Stand einlesen (falls vorhanden)
 try:
     with open("letzter_stand.txt", "r", encoding="utf-8") as datei:
         alter_stand = set(zeile.strip() for zeile in datei.readlines())
@@ -42,9 +41,12 @@ verwendete_ids = set()
 aktueller_stand = set()
 
 for turnier in top_10:
+    start_timestamp = turnier["round"].get("startsAt")
+    if start_timestamp is None:
+        continue
+
     tour_id = turnier["tour"]["id"]
     name = turnier["tour"]["name"]
-    start_timestamp = turnier["round"]["startsAt"]
     start_zeit = datetime.fromtimestamp(start_timestamp / 1000)
 
     titel = f"[Top-Turnier] {name}"
@@ -68,8 +70,11 @@ for turnier in turniere:
     gefundene_spieler = [s for s in spieler_liste if s.split()[-1] in spieler_text]
 
     if gefundene_spieler:
+        start_timestamp = turnier["round"].get("startsAt")
+        if start_timestamp is None:
+            continue
+
         name = turnier["tour"]["name"]
-        start_timestamp = turnier["round"]["startsAt"]
         start_zeit = datetime.fromtimestamp(start_timestamp / 1000)
 
         titel = f"{name} - {', '.join(gefundene_spieler)}"
@@ -95,7 +100,6 @@ for name, start_zeit in externe_turniere:
 with open("schach_termine.ics", "wb") as datei:
     datei.write(kalender.to_ical())
 
-# Vergleich: was ist neu seit dem letzten Lauf?
 neue_eintraege = aktueller_stand - alter_stand
 
 if neue_eintraege:
@@ -106,7 +110,6 @@ else:
 with open("nachricht.txt", "w", encoding="utf-8") as datei:
     datei.write(nachricht)
 
-# Aktuellen Stand für den nächsten Vergleich speichern (überschreibt den alten)
 with open("letzter_stand.txt", "w", encoding="utf-8") as datei:
     for titel in sorted(aktueller_stand):
         datei.write(titel + "\n")
