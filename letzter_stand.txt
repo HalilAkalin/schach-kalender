@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
-[Top-Turnier] 48th International Chess Open Citta di Arco | Grupo A (1-37)
+[Top-Turnier] 1st Commonwealth Schools Chess Championship 2026 | Classical | Girls
 [Top-Turnier] Berger 44th National Women's 'B' Chess Championship 2026
-[Top-Turnier] Campeonato Espana Individual Veteranos 2026 | S50
+[Top-Turnier] Eight Square Chess Academy - 3rd International FIDE Rated Open Chess Tournament
 [Top-Turnier] Fagernes International Autumn 2026 | GM
+[Top-Turnier] German Bundesliga 2026/27 (Schachbundesliga)
 [Top-Turnier] Greek Championship 2026 | 75ο Πανελλήνιο Ατομικό Πρωτάθλημα 2026
-[Top-Turnier] Greek Women's Championship 2026
+[Top-Turnier] II Magistral Internacional La Nucía
 [Top-Turnier] Pan-American Championship Masters & Seniors 2026 | 65+
 [Top-Turnier] Romanian Team Chess Championships 2026 | Men’s Super league
 [Top-Turnier] Serbian Super League 2026 | Open
-[Top-Turnier] TCEC S30: Playoff & Swiss 10 | Swiss 10
