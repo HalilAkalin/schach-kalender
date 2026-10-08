@@ -9,18 +9,23 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Romanian Team Chess Championships 2026 | Men’s Sup
  er league
-DTSTART:20261007T121500
-DESCRIPTION:Nächste Runde: Round 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Fagernes International Autumn 2026 | GM
-DTSTART:20261007T121500
+DTSTART:20261008T121500
 DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Fagernes International Autumn 2026 | GM
+DTSTART:20261008T121500
+DESCRIPTION:Nächste Runde: Round 7
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Serbian Super League 2026 | Open
-DTSTART:20261007T131500
-DESCRIPTION:Nächste Runde: Round 4
+DTSTART:20261008T131500
+DESCRIPTION:Nächste Runde: Round 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Shenzhen Nanshan Masters 2026 | Preliminary 预赛
+DTSTART:20261009T050000
+DESCRIPTION:Nächste Runde: Game 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Pan-American Championship Masters & Seniors 2026 | 6
@@ -29,32 +34,25 @@ DTSTART:20261010T164500
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Greek Championship 2026 | 75ο Πανελλήνιο 
- Ατομικό Πρωτάθλημα 2026
-DTSTART:20261007T070000
+SUMMARY:[Top-Turnier] Deutsche Ländermeisterschaft 2026
+DTSTART:20261008T064500
+DESCRIPTION:Nächste Runde: Round 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Eight Square Chess Academy - 3rd International FIDE 
+ Rated Open Chess Tournament
+DTSTART:20261008T093500
 DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 1st Commonwealth Schools Chess Championship 2026 | C
  lassical | Girls
-DTSTART:20261007T071500
-DESCRIPTION:Nächste Runde: Round 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] II Magistral Internacional La Nucía
-DTSTART:20261007T080000
-DESCRIPTION:Nächste Runde: Round 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Berger 44th National Women's 'B' Chess Championship 
- 2026
-DTSTART:20261007T094500
+DTSTART:20261008T071500
 DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Eight Square Chess Academy - 3rd International FIDE 
- Rated Open Chess Tournament
-DTSTART:20261007T100500
+SUMMARY:[Top-Turnier] TCEC S30: Playoff & Swiss 10 | Swiss 10
+DTSTART:20261006T205355
 DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
