@@ -3,51 +3,57 @@ VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] German Bundesliga 2026/27 (Schachbundesliga)
-DTSTART:20261010T121500
+DTSTART:20261011T081500
+DESCRIPTION:Nächste Runde: Round 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Shenzhen Nanshan Masters 2026 | Main Event 正赛
+DTSTART:20261012T050000
+DESCRIPTION:Nächste Runde: Finals | Game 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Fagernes International Autumn 2026 | GM
+DTSTART:20261011T071500
+DESCRIPTION:Nächste Runde: Round 10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 4NCL 2026-2027 Division 1
+DTSTART:20261011T101500
 DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Romanian Team Chess Championships 2026 | Men’s Sup
  er League
-DTSTART:20261010T121500
-DESCRIPTION:Nächste Runde: Round 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Fagernes International Autumn 2026 | GM
-DTSTART:20261010T121500
+DTSTART:20261011T084500
 DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Serbian Super League 2026 | Open
-DTSTART:20261010T131500
-DESCRIPTION:Nächste Runde: Round 7
+DTSTART:20261011T131500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Pan-American Championship Masters & Seniors 2026 | 6
  5+
-DTSTART:20261010T164500
-DESCRIPTION:Nächste Runde: Round 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] FISU World University Championship Mind Sports 2026 
- | Classical Men
-DTSTART:20261011T011500
-DESCRIPTION:Nächste Runde: Round 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Deutsche Ländermeisterschaft 2026
-DTSTART:20261010T064500
-DESCRIPTION:Nächste Runde: Round 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Odensemesterskabet 2026
-DTSTART:20261010T081000
+DTSTART:20261011T160000
 DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Skol-SM 2026
-DTSTART:20261010T093000
-DESCRIPTION:Nächste Runde: Round 4
+SUMMARY:[Top-Turnier] FISU World University Championship Mind Sports 2026 
+ | Classical | Men
+DTSTART:20261012T011500
+DESCRIPTION:Nächste Runde: Round 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Greek Championship 2026 | 75ο Πανελλήνιο 
+ Ατομικό Πρωτάθλημα 2026
+DTSTART:20261011T070000
+DESCRIPTION:Nächste Runde: Round 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Deutsche Ländermeisterschaft 2026
+DTSTART:20261011T064500
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
