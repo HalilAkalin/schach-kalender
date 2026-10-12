@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
-[Top-Turnier] 4NCL 2026-2027 Division 1
-[Top-Turnier] Deutsche Ländermeisterschaft 2026
+[Top-Turnier] 36th NATO Chess Championship 2026
+[Top-Turnier] Amagers 100års jubilæumsturnering - GM & IM
+[Top-Turnier] Atyrau Open 2026 | Masters
 [Top-Turnier] FISU World University Championship Mind Sports 2026 | Classical | Men
-[Top-Turnier] Fagernes International Autumn 2026 | GM
 [Top-Turnier] German Bundesliga 2026/27 (Schachbundesliga)
-[Top-Turnier] Greek Championship 2026 | 75ο Πανελλήνιο Ατομικό Πρωτάθλημα 2026
+[Top-Turnier] Greek Women's Championship 2026
+[Top-Turnier] Hoogeveen Open 2026
 [Top-Turnier] Pan-American Championship Masters & Seniors 2026 | 65+
-[Top-Turnier] Romanian Team Chess Championships 2026 | Men’s Super League
 [Top-Turnier] Serbian Super League 2026 | Open
 [Top-Turnier] Shenzhen Nanshan Masters 2026 | Main Event 正赛
