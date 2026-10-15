@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
+[Top-Turnier] 1. Vechta Open | A-Open
 [Top-Turnier] 36th NATO Chess Championship 2026
 [Top-Turnier] Amagers 100års jubilæumsturnering - GM & IM
 [Top-Turnier] Atyrau Open 2026 | Masters
 [Top-Turnier] Eliminacje strefowe do Mistrzostw Polski Juniorów i Młodzików (OP+SL) - C13
-[Top-Turnier] FIDE World U7-U17 Championships 2026 | O07
-[Top-Turnier] FISU World University Championship Mind Sports 2026 | Blitz | Men
+[Top-Turnier] FIDE World U7-U17 Championships 2026 | O17
 [Top-Turnier] FISU World University Championship Mind Sports 2026 | Classical | Men
-[Top-Turnier] Hoogeveen Open 2026
+[Top-Turnier] Ganja Open 2026 | Group A
 [Top-Turnier] Pan-American Championship Masters & Seniors 2026 | 65+
-[Top-Turnier] Serbian Super League 2026 | Open
+[Top-Turnier] Spilimbergo GM
