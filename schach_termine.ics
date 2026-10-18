@@ -3,13 +3,8 @@ VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 41st European Chess Club Cup 2026 | Open
-DTSTART:20261017T121500
-DESCRIPTION:Nächste Runde: Round 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Atyrau Open 2026 | Masters
-DTSTART:20261017T101500
-DESCRIPTION:Nächste Runde: Round 6
+DTSTART:20261018T121500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] FIDE World U7-U17 Championships 2026 | O17
@@ -17,41 +12,47 @@ DTSTART:20261018T080000
 DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 51st Indian Sub-Junior (Under15) Open Chess Champion
- ships 2026 | Open
-DTSTART:20261017T044500
-DESCRIPTION:Nächste Runde: Round 8
+SUMMARY:[Top-Turnier] Atyrau Open 2026 | Masters
+DTSTART:20261018T101500
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Eliminacje strefowe do Mistrzostw Polski Juniorów i
   Młodzików (OP+SL) - C13
-DTSTART:20261017T073000
-DESCRIPTION:Nächste Runde: Round 8
+DTSTART:20261018T073000
+DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Amagers 100års jubilæumsturnering - GM & IM
-DTSTART:20261017T081000
+SUMMARY:[Top-Turnier] 51st Indian Sub-Junior (Under15) Open Chess Champion
+ ships 2026 | Girls
+DTSTART:20261018T044500
 DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Ganja Open 2026 | Group A
-DTSTART:20261017T061500
-DESCRIPTION:Nächste Runde: Round 7
+DTSTART:20261018T061500
+DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] xxvI Torneo Internazionle Città di Vicenza
-DTSTART:20261017T070000
+SUMMARY:[Top-Turnier] Prva liga Centralne Srbije 2026
+DTSTART:20261018T073000
 DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 1. Vechta Open | A-Open
-DTSTART:20261017T073000
-DESCRIPTION:Nächste Runde: Round 5
+DTSTART:20261018T073000
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Budapest ONE WEEK October 2026 | GM-A
-DTSTART:20261017T081500
-DESCRIPTION:Nächste Runde: Round 9
+SUMMARY:[Top-Turnier] Cork Congress 2026 | Masters (1825+)
+DTSTART:20261018T080000
+DESCRIPTION:Nächste Runde: Round 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 43. Münsterland Open / 34. Challengers 2026 - A-Ope
+ n
+DTSTART:20261018T080000
+DESCRIPTION:Nächste Runde: Runde 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026

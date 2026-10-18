@@ -2,11 +2,11 @@
 [Extern] Sinquefield Cup 2026
 [Top-Turnier] 1. Vechta Open | A-Open
 [Top-Turnier] 41st European Chess Club Cup 2026 | Open
-[Top-Turnier] 51st Indian Sub-Junior (Under15) Open Chess Championships 2026 | Open
-[Top-Turnier] Amagers 100års jubilæumsturnering - GM & IM
+[Top-Turnier] 43. Münsterland Open / 34. Challengers 2026 - A-Open
+[Top-Turnier] 51st Indian Sub-Junior (Under15) Open Chess Championships 2026 | Girls
 [Top-Turnier] Atyrau Open 2026 | Masters
-[Top-Turnier] Budapest ONE WEEK October 2026 | GM-A
+[Top-Turnier] Cork Congress 2026 | Masters (1825+)
 [Top-Turnier] Eliminacje strefowe do Mistrzostw Polski Juniorów i Młodzików (OP+SL) - C13
 [Top-Turnier] FIDE World U7-U17 Championships 2026 | O17
 [Top-Turnier] Ganja Open 2026 | Group A
-[Top-Turnier] xxvI Torneo Internazionle Città di Vicenza
+[Top-Turnier] Prva liga Centralne Srbije 2026
