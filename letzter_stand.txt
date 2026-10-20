@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
+[Top-Turnier] 1st Gambit IM Closed Tournament
+[Top-Turnier] 22nd Chefchaouen International Chess Festival 2026 | Standard
 [Top-Turnier] 41st European Chess Club Cup 2026 | Open
 [Top-Turnier] 5. Open Hvar 2026
-[Top-Turnier] ANNEMASSE 2026 MASTERS
 [Top-Turnier] Atyrau Open 2026 | Masters
-[Top-Turnier] Bangladesh National Chess Championship 2026
 [Top-Turnier] FIDE World U7-U17 Championships 2026 | O17
-[Top-Turnier] MCC Classic Round Robin
+[Top-Turnier] Open international de Liffré 2026
 [Top-Turnier] Rising Stars | GM
 [Top-Turnier] TCEC S30: Playoff & Swiss 10 | Swiss 10
 [Top-Turnier] Uzbekistan Seniors Championship 2026
