@@ -3,54 +3,53 @@ VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 41st European Chess Club Cup 2026 | Open
-DTSTART:20261022T121500
-DESCRIPTION:Nächste Runde: Round 6
+DTSTART:20261023T121500
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] U.S. Chess Championships 2026 | Open
-DTSTART:20261022T171000
+DTSTART:20261022T170000
 DESCRIPTION:Nächste Runde: Playoff | Rapid
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] China Women's Rapid Chess Invitational 2026
-DTSTART:20261022T090000
-DESCRIPTION:Nächste Runde: Quarterfinals | Game 4
+DTSTART:20261023T090000
+DESCRIPTION:Nächste Runde: Semifinals | Game 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 5. Open Hvar 2026
-DTSTART:20261022T070000
-DESCRIPTION:Nächste Runde: Round 5
+SUMMARY:[Top-Turnier] Amsterdam Chess Open 2026 - Group A
+DTSTART:20261023T081500
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Shirvan Open 2026 | Group A
-DTSTART:20261022T061500
-DESCRIPTION:Nächste Runde: Round 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 1st Gambit IM Closed Tournament
-DTSTART:20261022T081500
+DTSTART:20261023T061500
 DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Offene Sächsische Senioren-Einzelmeisterschaft 2026
-DTSTART:20261022T074500
-DESCRIPTION:Nächste Runde: Round 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] TCEC S30: Playoff & Swiss 10 | Swiss 10
-DTSTART:20261021T234509
+SUMMARY:[Top-Turnier] ANNEMASSE 2026 MASTERS
+DTSTART:20261023T070000
 DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 22nd Chefchaouen International Chess Festival 2026 |
-  Standard
-DTSTART:20261022T091000
-DESCRIPTION:Nächste Runde: Round 7
+SUMMARY:[Top-Turnier] Rising Stars | GM
+DTSTART:20261023T064500
+DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Bangladesh National Chess Championship 2026
-DTSTART:20261022T094500
-DESCRIPTION:Nächste Runde: Round 5
+SUMMARY:[Top-Turnier] Mongolian National Chess Championship 2026 | Open
+DTSTART:20261023T071500
+DESCRIPTION:Nächste Runde: Round 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Offene Sächsische Senioren-Einzelmeisterschaft 2026
+DTSTART:20261023T074500
+DESCRIPTION:Nächste Runde: Round 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Open international de Liffré 2026
+DTSTART:20261023T070000
+DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
