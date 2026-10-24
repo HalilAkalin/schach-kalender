@@ -7,49 +7,51 @@ DTSTART:20261023T121500
 DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] U.S. Chess Championships 2026 | Open
-DTSTART:20261022T170000
-DESCRIPTION:Nächste Runde: Playoff | Rapid
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] China Women's Rapid Chess Invitational 2026
-DTSTART:20261023T090000
-DESCRIPTION:Nächste Runde: Semifinals | Game 4
+SUMMARY:[Top-Turnier] Hungarian Child & Youth Team Championships 2026 | Yo
+ uth
+DTSTART:20261024T074500
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Amsterdam Chess Open 2026 - Group A
-DTSTART:20261023T081500
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20261024T081500
+DESCRIPTION:Nächste Runde: Round 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Shirvan Open 2026 | Group A
-DTSTART:20261023T061500
-DESCRIPTION:Nächste Runde: Round 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] ANNEMASSE 2026 MASTERS
-DTSTART:20261023T070000
-DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Rising Stars | GM
-DTSTART:20261023T064500
-DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Mongolian National Chess Championship 2026 | Open
-DTSTART:20261023T071500
-DESCRIPTION:Nächste Runde: Round 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Offene Sächsische Senioren-Einzelmeisterschaft 2026
-DTSTART:20261023T074500
+SUMMARY:[Top-Turnier] Københavns Mesterskabet 2026 - Formula X Agency OPE
+ N
+DTSTART:20261024T081000
 DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Open international de Liffré 2026
-DTSTART:20261023T070000
-DESCRIPTION:Nächste Runde: Round 9
+SUMMARY:[Top-Turnier] Shirvan Open 2026 | Group A
+DTSTART:20261024T061500
+DESCRIPTION:Nächste Runde: Round 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Mongolian National Chess Championship 2026 | Open
+DTSTART:20261024T081500
+DESCRIPTION:Nächste Runde: Round 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] III Open de Ajedrez Ciudad de Tomelloso | U2400
+DTSTART:20261024T070000
+DESCRIPTION:Nächste Runde: Round 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Baden Championship 2026 (BEM/BFEM) | BEM
+DTSTART:20261024T081500
+DESCRIPTION:Nächste Runde: Round 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Offene Sächsische Senioren-Einzelmeisterschaft 2026
+DTSTART:20261024T074500
+DESCRIPTION:Nächste Runde: Round 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 2026年全国国际象棋棋协大师赛 (大庆站)
+DTSTART:20261024T083000
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
