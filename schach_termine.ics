@@ -4,53 +4,55 @@ PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 2026 Clutch Chess: Champions Showdown
 DTSTART:20261027T170000
-DESCRIPTION:Nächste Runde: Ronda 1
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] English Chess Championships 2026 | Open | Classical
-DTSTART:20261026T100000
-DESCRIPTION:Nächste Runde: Ronda 1
+SUMMARY:[Top-Turnier] Ladder Legends by Lichess | GM Vetoshko vs GM Oleksi
+ yenko
+DTSTART:20261028T160000
+DESCRIPTION:Nächste Runde: Classical Game
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 2026 Chinese Chess League Division A | Round-Robin |
+  R7-11
+DTSTART:20261027T061500
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] KazChess Masters Almaty 2026
-DTSTART:20261026T101500
-DESCRIPTION:Nächste Runde: Ronda 1
+DTSTART:20261027T101500
+DESCRIPTION:Nächste Runde: Round 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] English Chess Championships 2026 | Open | Classical
+DTSTART:20261027T153000
+DESCRIPTION:Nächste Runde: Round 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Dutch Meesterklasse 2026-2027
 DTSTART:20261031T120000
-DESCRIPTION:Nächste Runde: Ronda 3
+DESCRIPTION:Nächste Runde: Round 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Hungarian Child & Youth Team Championships 2026 | Yo
  uth
-DTSTART:20261026T081500
-DESCRIPTION:Nächste Runde: Ronda 5
+DTSTART:20261027T081500
+DESCRIPTION:Nächste Runde: Round 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Benidorm Chess Open 2026 | Group A
+DTSTART:20261027T093000
+DESCRIPTION:Nächste Runde: Round 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Unga Talangers Tournaments | GM11
+DTSTART:20261027T090000
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Mongolian National Chess Championship 2026 | Open
-DTSTART:20261026T071500
-DESCRIPTION:Nächste Runde: Ronda 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Serbian Second League group Voivodina
-DTSTART:20261026T091500
-DESCRIPTION:Nächste Runde: Ronda 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] KEJURNAS KE - 51 TAHUN 2026
-DTSTART:20261026T080000
-DESCRIPTION:Nächste Runde: Ronda 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Sahel International Chess Festival | Open A
-DTSTART:20261026T081500
-DESCRIPTION:Nächste Runde: Ronda 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Shirvan Open 2026 | Group A
-DTSTART:20261026T061500
-DESCRIPTION:Nächste Runde: Ronda 9
+DTSTART:20261027T071500
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
