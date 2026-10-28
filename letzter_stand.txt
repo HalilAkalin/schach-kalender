@@ -2,11 +2,11 @@
 [Extern] Sinquefield Cup 2026
 [Top-Turnier] 2026 Chinese Chess League Division A | Round-Robin | R7-11
 [Top-Turnier] 2026 Clutch Chess: Champions Showdown
-[Top-Turnier] Benidorm Chess Open 2026 | Group A
+[Top-Turnier] 2026 Sahel International Chess Festival | Open A
+[Top-Turnier] 2026 Serbian Second League group Voivodina
 [Top-Turnier] Dutch Meesterklasse 2026-2027
 [Top-Turnier] English Chess Championships 2026 | Open | Classical
-[Top-Turnier] Hungarian Child & Youth Team Championships 2026 | Youth
 [Top-Turnier] KazChess Masters Almaty 2026
 [Top-Turnier] Ladder Legends by Lichess | GM Vetoshko vs GM Oleksiyenko
-[Top-Turnier] Mongolian National Chess Championship 2026 | Open
+[Top-Turnier] Mistrovství Čech mládeže 2026 | U16
 [Top-Turnier] Unga Talangers Tournaments | GM11
