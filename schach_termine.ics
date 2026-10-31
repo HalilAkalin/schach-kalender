@@ -2,30 +2,40 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Clutch Chess: Champions Showdown
-DTSTART:20261029T193454
-DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 2026 Chinese Chess League Division A | Round-Robin |
   R7-11
-DTSTART:20261030T061500
-DESCRIPTION:Nächste Runde: Round 10
+DTSTART:20261031T061500
+DESCRIPTION:Nächste Runde: Round 11
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] English Chess Championships 2026 | Open | Classical
-DTSTART:20261030T100000
-DESCRIPTION:Nächste Runde: Round 7
+SUMMARY:[Top-Turnier] sachy.cz Extraliga 2026/27
+DTSTART:20261031T091500
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] KazChess Masters Almaty 2026
-DTSTART:20261030T101500
-DESCRIPTION:Nächste Runde: Round 5
+DTSTART:20261031T101500
+DESCRIPTION:Nächste Runde: Round 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Norwegian Team League Eliteserien 2026/27
+DTSTART:20261031T110000
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Dutch Meesterklasse 2026-2027
 DTSTART:20261031T120000
 DESCRIPTION:Nächste Runde: Round 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] English Chess Championships 2026 | Open | Classical
+DTSTART:20261031T120000
+DESCRIPTION:Nächste Runde: Round 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 29th Open Bavarian Chess Championship
+DTSTART:20261031T150000
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] FIDE World Senior Chess Championships 2026 | Open 50
@@ -35,23 +45,14 @@ DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Mistrovství Čech mládeže 2026 | U16
-DTSTART:20261030T081500
-DESCRIPTION:Nächste Runde: Round 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Mongolian National Chess Championship 2026 | Open
-DTSTART:20261030T071500
+DTSTART:20261031T080000
 DESCRIPTION:Nächste Runde: Round 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Unga Talangers Tournaments | GM11
-DTSTART:20261030T090000
-DESCRIPTION:Nächste Runde: Round 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Greg Hjorth Open
-DTSTART:20261030T083000
-DESCRIPTION:Nächste Runde: Round 1
+SUMMARY:[Top-Turnier] 1st Chola Chess Open International Grandmasters Ches
+ s Tournament 2026
+DTSTART:20261031T083000
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026

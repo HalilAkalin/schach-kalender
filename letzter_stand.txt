@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
+[Top-Turnier] 1st Chola Chess Open International Grandmasters Chess Tournament 2026
 [Top-Turnier] 2026 Chinese Chess League Division A | Round-Robin | R7-11
-[Top-Turnier] 2026 Clutch Chess: Champions Showdown
-[Top-Turnier] 2026 Greg Hjorth Open
+[Top-Turnier] 29th Open Bavarian Chess Championship
 [Top-Turnier] Dutch Meesterklasse 2026-2027
 [Top-Turnier] English Chess Championships 2026 | Open | Classical
 [Top-Turnier] FIDE World Senior Chess Championships 2026 | Open 50+
 [Top-Turnier] KazChess Masters Almaty 2026
 [Top-Turnier] Mistrovství Čech mládeže 2026 | U16
-[Top-Turnier] Mongolian National Chess Championship 2026 | Open
-[Top-Turnier] Unga Talangers Tournaments | GM11
+[Top-Turnier] Norwegian Team League Eliteserien 2026/27
+[Top-Turnier] sachy.cz Extraliga 2026/27
