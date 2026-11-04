@@ -4,58 +4,58 @@ PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 1st Chola Chess Open International Grandmasters Ches
  s Tournament 2026
-DTSTART:20261103T083000
-DESCRIPTION:Nächste Runde: Round 5
+DTSTART:20261104T083000
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] FIDE World Junior Rapid & Blitz Championships 2026 |
   Rapid | Open
-DTSTART:20261103T120000
-DESCRIPTION:Nächste Runde: Round 4
+DTSTART:20261104T122000
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] European Youth Chess Championship 2026 | O18
-DTSTART:20261103T131500
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20261104T131500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] FIDE World Senior Chess Championships 2026 | Open 50
  +
-DTSTART:20261103T141500
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20261104T141500
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 29th Open Bavarian Chess Championship
-DTSTART:20261103T151500
-DESCRIPTION:Nächste Runde: Round 4
+DTSTART:20261104T151500
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 5th Chinese Chess Rapid Tournament 2026 | Main Event
   正赛
-DTSTART:20261104T050000
-DESCRIPTION:Nächste Runde: Quarterfinals | Game 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] German Bundesliga 2026/27 (Schachbundesliga)
-DTSTART:20261113T151500
-DESCRIPTION:Nächste Runde: Round 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] KazChess Masters Almaty 2026
-DTSTART:20261103T061500
-DESCRIPTION:Nächste Runde: Round 9
+DTSTART:20261105T050000
+DESCRIPTION:Nächste Runde: Semifinals | Game 1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 44th Bangladesh National Women's Chess Championship 
  2026
-DTSTART:20261103T091500
-DESCRIPTION:Nächste Runde: Round 3
+DTSTART:20261104T091500
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Bihar State Senior FIDE Rating Chess Championship 20
- 26
-DTSTART:20261103T094500
-DESCRIPTION:Nächste Runde: Round 7
+SUMMARY:[Top-Turnier] Lebanese Open Chess Championship 2026
+DTSTART:20261102T160000
+DESCRIPTION:Nächste Runde: Round 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Central American and Caribbean Youth Championship 20
+ 26 | Rapid | O12
+DTSTART:20261103T210300
+DESCRIPTION:Nächste Runde: Round 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Campeonato Sudamericano Montevideo 2026 | Absoluto
+DTSTART:20261104T131500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
