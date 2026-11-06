@@ -2,11 +2,11 @@
 [Extern] Sinquefield Cup 2026
 [Top-Turnier] 1st Chola Chess Open International Grandmasters Chess Tournament 2026
 [Top-Turnier] 29th Open Bavarian Chess Championship
-[Top-Turnier] 3rd T-RERA Open FIDE Rating International Chess Tournament 2026
+[Top-Turnier] 44th Bangladesh National Women's Chess Championship 2026
 [Top-Turnier] 5th Chinese Chess Rapid Tournament 2026 | Main Event 正赛
-[Top-Turnier] 7th Asenso ASEAN+ Individual Chess Championship | Open
 [Top-Turnier] European Youth Chess Championship 2026 | O18
 [Top-Turnier] FIDE World Amateur Chess Championships 2026 | U2300
 [Top-Turnier] FIDE World Junior Rapid & Blitz Championships 2026 | Blitz | Open
 [Top-Turnier] FIDE World Senior Chess Championships 2026 | Open 50+
-[Top-Turnier] SBI Life Maharashtra State Schools Chess Championship 2026 | G11
+[Top-Turnier] Kenya National Chess League 2026 - Playoffs
+[Top-Turnier] Round Robin Chess Club "Radnicki" Kovin | IM 8
