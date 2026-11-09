@@ -2,19 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 29th Open Bavarian Chess Championship
-DTSTART:20261108T091500
-DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Allsvenskan 26/27 (Swedish Team Championship)
-DTSTART:20261108T090000
-DESCRIPTION:Nächste Runde: Round 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] FIDE World Amateur Chess Championships 2026 | U2300
-DTSTART:20261109T021500
-DESCRIPTION:Nächste Runde: Round 5
+SUMMARY:[Top-Turnier] FIDE World Amateur Chess Championships 2026 | U2000
+DTSTART:20261109T081500
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] European Youth Chess Championship 2026 | O18
@@ -33,25 +23,37 @@ DTSTART:20261113T151500
 DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 7th Asenso ASEAN+ Individual Chess Championship | Op
- en
-DTSTART:20261108T083000
-DESCRIPTION:Nächste Runde: Round 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] International Chess Festival Kardzhali 2026
-DTSTART:20261108T091500
+SUMMARY:[Top-Turnier] Round Robin Chess Club "Radnicki" Kovin | IM 8
+DTSTART:20261109T090000
 DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Kenya National Chess League 2026 - Premier League
-DTSTART:20261108T070000
-DESCRIPTION:Nächste Runde: Round 3
+SUMMARY:[Top-Turnier] 44th Bangladesh National Women's Chess Championship 
+ 2026
+DTSTART:20261109T091500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] International tournament Castel del Rio
-DTSTART:20261108T084500
-DESCRIPTION:Nächste Runde: Round 4
+SUMMARY:[Top-Turnier] AIU Women South Zone Chess Championship 2026-27
+DTSTART:20261109T113000
+DESCRIPTION:Nächste Runde: Round 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Nacional por Equipos PreJuegos Nacionales 2027 | Abs
+ oluto Blitz
+DTSTART:20261109T140000
+DESCRIPTION:Nächste Runde: Round 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] XLI Intersuj 2026
+DTSTART:20261109T141500
+DESCRIPTION:Nächste Runde: Round 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Półfinały Indywidualnych Mistrzostw Polski 2026 |
+  OPEN
+DTSTART:20261109T141500
+DESCRIPTION:Nächste Runde: Round 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
