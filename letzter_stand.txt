@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
-[Top-Turnier] 44th Bangladesh National Women's Chess Championship 2026
+[Top-Turnier] 2nd President’s Cup of the Republic of Tajikistan 2026 | Group A
 [Top-Turnier] AIU Women South Zone Chess Championship 2026-27
+[Top-Turnier] Asian Nations Chess Cup 2026 | Men
 [Top-Turnier] European Youth Chess Championship 2026 | O18
-[Top-Turnier] FIDE World Amateur Chess Championships 2026 | U2000
+[Top-Turnier] FIDE World Amateur Chess Championships 2026 | W2000
 [Top-Turnier] FIDE World Senior Chess Championships 2026 | Open 50+
 [Top-Turnier] German Bundesliga 2026/27 (Schachbundesliga)
-[Top-Turnier] Nacional por Equipos PreJuegos Nacionales 2027 | Absoluto Blitz
-[Top-Turnier] Półfinały Indywidualnych Mistrzostw Polski 2026 | OPEN
-[Top-Turnier] Round Robin Chess Club "Radnicki" Kovin | IM 8
-[Top-Turnier] XLI Intersuj 2026
+[Top-Turnier] IX Festival Salamanca Cuna Del Ajedrez Moderno 2026
+[Top-Turnier] SixDays November 2026 | GM-A
+[Top-Turnier] Total Chess World Championship Tour Pilot 2026 | Blitz Tiebreak
