@@ -2,31 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mein Schach-Kalender//
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Total Chess World Championship Tour Pilot 2026 | Bli
- tz Tiebreak
-DTSTART:20261110T170000
+SUMMARY:[Top-Turnier] Total Chess World Championship Tour Pilot 2026 | Gro
+ up Stage | A
+DTSTART:20261111T140000
 DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] FIDE World Amateur Chess Championships 2026 | W2000
-DTSTART:20261110T081500
-DESCRIPTION:Nächste Runde: Round 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] European Youth Chess Championship 2026 | O18
-DTSTART:20261110T131500
-DESCRIPTION:Nächste Runde: Round 7
+SUMMARY:[Top-Turnier] FIDE World Amateur Chess Championships 2026 | U2300
+DTSTART:20261111T081500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Asian Nations Chess Cup 2026 | Men
-DTSTART:20261110T131500
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20261111T111500
+DESCRIPTION:Nächste Runde: Round 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] European Youth Chess Championship 2026 | O18
+DTSTART:20261111T131500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] FIDE World Senior Chess Championships 2026 | Open 50
  +
-DTSTART:20261110T141500
-DESCRIPTION:Nächste Runde: Round 7
+DTSTART:20261111T141500
+DESCRIPTION:Nächste Runde: Round 8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] IX Festival Salamanca Cuna Del Ajedrez Moderno 2026
@@ -41,17 +41,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] 2nd President’s Cup of the Republic of Tajikistan 
  2026 | Group A
-DTSTART:20261110T110000
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20261111T111500
+DESCRIPTION:Nächste Runde: Round 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Tournoi des Trois Vallées 2026
+DTSTART:20261111T090000
+DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] SixDays November 2026 | GM-A
-DTSTART:20261110T091000
-DESCRIPTION:Nächste Runde: Round 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] AIU Women South Zone Chess Championship 2026-27
-DTSTART:20261110T100000
+DTSTART:20261111T091000
 DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
