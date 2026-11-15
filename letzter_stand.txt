@@ -1,12 +1,13 @@
+FIDE World Chess Championship 2026 - Javokhir Sindarov
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
+[Top-Turnier] 17th Hainan Danzhou GM Tournament 2026 | Rapid
 [Top-Turnier] 2nd President’s Cup of the Republic of Tajikistan 2026 | Group A
-[Top-Turnier] 9ο ΤΟΥΡΝΟΥΑ ΓΙΟΡΤΗΣ ΧΑΛΒΑ ΦΑΡΣΑΛΩΝ
 [Top-Turnier] Asian Nations Chess Cup 2026 | Men
-[Top-Turnier] FIDE World Championship 2026
-[Top-Turnier] FIDE World Senior Chess Championships 2026 | Open 50+
 [Top-Turnier] German Bundesliga 2026/27 (Schachbundesliga)
-[Top-Turnier] IV OPEN INTERNACIONAL DE AJEDREZ CAP NEGRET | 50+
-[Top-Turnier] IX Festival Salamanca Cuna Del Ajedrez Moderno 2026
-[Top-Turnier] SixDays November 2026 | GM-A
+[Top-Turnier] Misamis Occidental Philippines International Chess Championship
+[Top-Turnier] Oberliga Baden 2026/27
+[Top-Turnier] Półfinały Indywidualnych Mistrzostw Polski 2026 | OPEN
+[Top-Turnier] Slovenian Team Championship 2026 (Državna članska liga)
 [Top-Turnier] Total Chess World Championship Tour Pilot 2026 | Group Stage | Combined
+[Top-Turnier] XX Festival Xadrez Figueira da Foz - Torneio Sabir Ali
