@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
-[Top-Turnier] 17th Hainan Danzhou GM Tournament 2026 | Blitz
-[Top-Turnier] 20. POJEDINACNO PRVENSTVO SRBIJE ZA SAHISTKINJE
 [Top-Turnier] 2026 Türkiye Kupası
-[Top-Turnier] AQ Prime International Open Chess Championship
+[Top-Turnier] Brazil Chess Series Masters | Blumenau 2026
+[Top-Turnier] Campeonato de España por Equipos de Club División de Honor
+[Top-Turnier] FIDE World Cadet Championship 2026 | O12
 [Top-Turnier] FIDE World Chess Championship 2026
 [Top-Turnier] FIDE World Junior Chess Championship 2026 | Open
-[Top-Turnier] ITT IM AREQUIPA LEON DEL SUR
-[Top-Turnier] Round Robin Chess Club "Radnicki" Kovin | IM 9
-[Top-Turnier] TCEC Cup 17 | Quarterfinals
+[Top-Turnier] German Chess Amateur Championship 2026/2027 (DSAM) Group A
+[Top-Turnier] Sel Hotel Myvatn / Myvatn Ol Open 2026
 [Top-Turnier] Total Chess World Championship Tour Pilot 2026 | Finals
+[Top-Turnier] Turkic Individual Chess Championship 2026 | Seniors
