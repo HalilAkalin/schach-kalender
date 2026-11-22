@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
-[Top-Turnier] 2026 UK Open Blitz Final | Open
+[Top-Turnier] 35. ekipno prvenstvo Hrvatske 2026 (Croatian Team Championship) - 1. A HŠL
 [Top-Turnier] Campeonato de España por Equipos de Club División de Honor
-[Top-Turnier] Dutch Meesterklasse 2026-2027
 [Top-Turnier] FIDE World Cadet Championship 2026 | O12
 [Top-Turnier] FIDE World Chess Championship 2026
 [Top-Turnier] FIDE World Junior Chess Championship 2026 | Open
 [Top-Turnier] German Chess Amateur Championship 2026/2027 (DSAM) Group A
+[Top-Turnier] Jerusalem Masters 2026 | Round Robin
 [Top-Turnier] Sel Hotel Myvatn / Myvatn Ol Open 2026
-[Top-Turnier] Total Chess World Championship Tour Pilot 2026 | Finals
+[Top-Turnier] Turkic Individual Chess Championship 2026 | Men
 [Top-Turnier] WR Women's Chess Tour 2026 - Grand Final | Blitz

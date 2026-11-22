@@ -7,31 +7,21 @@ DTSTART:20261124T140000
 DESCRIPTION:Nächste Runde: Game 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Total Chess World Championship Tour Pilot 2026 | Fin
- als
-DTSTART:20261120T190000
-DESCRIPTION:Nächste Runde: Armageddon
+SUMMARY:[Top-Turnier] FIDE World Cadet Championship 2026 | O12
+DTSTART:20261122T111500
+DESCRIPTION:Nächste Runde: Round 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Dutch Meesterklasse 2026-2027
-DTSTART:20261121T120000
-DESCRIPTION:Nächste Runde: Round 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] FIDE World Junior Chess Championship 2026 | Open
-DTSTART:20261121T141500
-DESCRIPTION:Nächste Runde: Round 4
+SUMMARY:[Top-Turnier] 35. ekipno prvenstvo Hrvatske 2026 (Croatian Team Ch
+ ampionship) - 1. A HŠL
+DTSTART:20261122T140000
+DESCRIPTION:Nächste Runde: Round 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Campeonato de España por Equipos de Club División 
  de Honor
-DTSTART:20261121T150000
-DESCRIPTION:Nächste Runde: Round 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] FIDE World Cadet Championship 2026 | O12
-DTSTART:20261122T111500
-DESCRIPTION:Nächste Runde: Round 1
+DTSTART:20261122T150000
+DESCRIPTION:Nächste Runde: Round 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] WR Women's Chess Tour 2026 - Grand Final | Blitz
@@ -39,20 +29,30 @@ DTSTART:20261122T170000
 DESCRIPTION:Nächste Runde: Quarterfinals | Game 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] German Chess Amateur Championship 2026/2027 (DSAM) G
- roup A
-DTSTART:20261121T081500
-DESCRIPTION:Nächste Runde: Round 3
+SUMMARY:[Top-Turnier] FIDE World Junior Chess Championship 2026 | Open
+DTSTART:20261122T191500
+DESCRIPTION:Nächste Runde: Round 6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 UK Open Blitz Final | Open
-DTSTART:20261121T124000
-DESCRIPTION:Nächste Runde: Round 3
+SUMMARY:[Top-Turnier] Jerusalem Masters 2026 | Round Robin
+DTSTART:20261123T130000
+DESCRIPTION:Nächste Runde: Round 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] German Chess Amateur Championship 2026/2027 (DSAM) G
+ roup A
+DTSTART:20261122T081500
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] Sel Hotel Myvatn / Myvatn Ol Open 2026
-DTSTART:20261121T100000
-DESCRIPTION:Nächste Runde: Round 4
+DTSTART:20261122T100000
+DESCRIPTION:Nächste Runde: Round 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Turkic Individual Chess Championship 2026 | Men
+DTSTART:20261122T111500
+DESCRIPTION:Nächste Runde: Round 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
