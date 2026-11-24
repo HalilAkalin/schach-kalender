@@ -7,36 +7,9 @@ DTSTART:20261124T140000
 DESCRIPTION:Nächste Runde: Game 1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Jerusalem Masters 2026 | Round Robin
-DTSTART:20261123T140000
-DESCRIPTION:Nächste Runde: Round 2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Top-Turnier] FIDE World Cadet Championship 2026 | O12
-DTSTART:20261123T111500
-DESCRIPTION:Nächste Runde: Round 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] WR Women's Chess Tour 2026 - Grand Final | Rapid
-DTSTART:20261123T144051
-DESCRIPTION:Nächste Runde: Semifinals | Armageddon
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 35. ekipno prvenstvo Hrvatske 2026 (Croatian Team Ch
- ampionship) - 1. A HŠL
-DTSTART:20261123T140000
+DTSTART:20261124T111500
 DESCRIPTION:Nächste Runde: Round 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Campeonato de España por Equipos de Club División 
- de Honor
-DTSTART:20261123T150000
-DESCRIPTION:Nächste Runde: Round 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Top-Turnier] 2026 Chinese Chess League Division A | Finals
-DTSTART:20261124T061500
-DESCRIPTION:Nächste Runde: Round 1 | Game 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Top-Turnier] FIDE World Junior Chess Championship 2026 | Open
@@ -44,14 +17,42 @@ DTSTART:20261124T141500
 DESCRIPTION:Nächste Runde: Round 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Indywidualne Mistrzostwa Polski do 20 lat | Open
-DTSTART:20261123T140000
-DESCRIPTION:Nächste Runde: Runda 4
+SUMMARY:[Top-Turnier] 35. ekipno prvenstvo Hrvatske 2026 (Croatian Team Ch
+ ampionship) - 1. A HŠL
+DTSTART:20261124T140000
+DESCRIPTION:Nächste Runde: Round 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Top-Turnier] Goris Open 2026 | Group A
-DTSTART:20261123T114500
-DESCRIPTION:Nächste Runde: Round 4
+SUMMARY:[Top-Turnier] Campeonato de España por Equipos de Club División 
+ de Honor
+DTSTART:20261124T150000
+DESCRIPTION:Nächste Runde: Round 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Jerusalem Masters 2026 | Round Robin
+DTSTART:20261124T150000
+DESCRIPTION:Nächste Runde: Round 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 2026 Chinese Chess League Division A | Finals
+DTSTART:20261125T061500
+DESCRIPTION:Nächste Runde: Round 2 | Game 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] 1. Bundesliga Austria 2026/2027
+DTSTART:20261125T130000
+DESCRIPTION:Nächste Runde: Round 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] XTX Markets London Chess Classic 2026: Masters
+DTSTART:20261125T160000
+DESCRIPTION:Nächste Runde: Round 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Top-Turnier] Ladder Legends by Lichess | GM Peng vs GM Salgado L
+ ópez
+DTSTART:20261125T160000
+DESCRIPTION:Nächste Runde: Classical Game
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Extern] Sinquefield Cup 2026
