@@ -1,12 +1,12 @@
 [Extern] GCT Finals 2026
 [Extern] Sinquefield Cup 2026
 [Top-Turnier] 1. Bundesliga Austria 2026/2027
+[Top-Turnier] 2026 Chinese Chess League Division A | Finals
 [Top-Turnier] 2026 US Masters
 [Top-Turnier] 35. ekipno prvenstvo Hrvatske 2026 (Croatian Team Championship) - 1. A HŠL
-[Top-Turnier] Campeonato de España por Equipos de Club División de Honor
 [Top-Turnier] FIDE World Cadet Championship 2026 | O12
 [Top-Turnier] FIDE World Chess Championship 2026
 [Top-Turnier] FIDE World Junior Chess Championship 2026 | Open
-[Top-Turnier] Jerusalem Masters 2026 | Semifinal
-[Top-Turnier] Ladder Legends by Lichess | GM Peng vs GM Salgado López
+[Top-Turnier] Funchal Chess Open 2026
+[Top-Turnier] Greek Youth Team Championship 2026
 [Top-Turnier] London Chess Classic 2026: Masters
